@@ -876,6 +876,7 @@ projects:
     category: packaging
     conda_id: conda-forge/cx_freeze
     pypi_id: cx_freeze
+    show: True
   - name: constructor
     github_id: conda/constructor
     category: packaging
@@ -1021,7 +1022,7 @@ projects:
     github_id: SCons/scons
     category: build-tools
     conda_id: conda-forge/scons
-    licnese: MIT
+    license: MIT
     pypi_id: scons
   - name: doit
     github_id: pydoit/doit
