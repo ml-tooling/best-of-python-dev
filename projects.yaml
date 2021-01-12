@@ -959,10 +959,9 @@ projects:
     labels: ["pytest"]
     conda_id: conda-forge/pytest-testmon
     pypi_id: pytest-testmon
-  - name: mamba
+  - name: Mamba Test Runner
     github_id: nestorsalceda/mamba
     category: testing
-    conda_id: conda-forge/mamba
     pypi_id: mamba
   - name: coveralls-python
     github_id: coveralls-clients/coveralls-python
@@ -1125,10 +1124,6 @@ projects:
     github_id: jamesabel/pyship
     category: packaging
     pypi_id: pyship
-  - name: pyship
-    github_id: jamesabel/pyship
-    category: packaging
-    pypi_id: pyship
   - name: universal-build
     github_id: ml-tooling/universal-build
     category: build-tools
@@ -1139,3 +1134,96 @@ projects:
     category: documentation
     pypi_id: lazydocs
     show: True
+  - name: yala
+    github_id: cemsbr/yala
+    category: linters
+    labels: ["flake8", "pylint"]
+    pypi_id: yala
+  # - name: docutils
+  #   conda_id: conda-forge/docutils
+  #   pypi_id: docutils
+  - name: python-json-logger
+    github_id: madzak/python-json-logger
+    category: logging
+    conda_id: conda-forge/python-json-logger
+    pypi_id: python-json-logger
+  - name: sentry-sdk
+    github_id: getsentry/sentry-python
+    category: logging
+    conda_id: conda-forge/sentry-sdk
+    pypi_id: sentry-sdk
+  - name: tabulate
+    github_id: astanin/python-tabulate
+    category: logging
+    conda_id: conda-forge/tabulate
+    pypi_id: tabulate
+  - name: colorlog
+    github_id: borntyping/python-colorlog
+    category: logging
+    conda_id: conda-forge/colorlog
+    pypi_id: colorlog
+  - name: packaging
+    github_id: pypa/packaging
+    category: packaging
+    conda_id: conda-forge/packaging
+    pypi_id: packaging
+  - name: pre-commit
+    github_id: pre-commit/pre-commit
+    category: others
+    conda_id: conda-forge/pre-commit
+    pypi_id: pre-commit
+  - name: progressbar2
+    github_id: WoLpH/python-progressbar
+    category: logging
+    conda_id: conda-forge/progressbar2
+    pypi_id: progressbar2
+  - name: alive-progress
+    github_id: rsalmei/alive-progress
+    category: logging
+    pypi_id: alive-progress
+    conda_id: conda-forge/alive-progress
+  - name: tqdm
+    github_id: tqdm/tqdm
+    category: logging
+    license: MIT
+    pypi_id: tqdm
+    conda_id: conda-forge/tqdm
+  - name: playwright-python
+    github_id: microsoft/playwright-python
+    category: testing
+    pypi_id: playwright
+  - name: PrettyErrors
+    github_id: onelivesleft/PrettyErrors
+    category: logging
+    pypi_id: pretty_errors
+  - name: notifiers
+    github_id: liiight/notifiers
+    category: logging
+    pypi_id: notifiers
+  - name: rebound
+    github_id: shobrook/rebound
+    category: logging
+    conda_id: conda-forge/rebound
+    pypi_id: rebound
+  - name: prettytable
+    github_id: jazzband/prettytable
+    category: logging
+    conda_id: conda-forge/prettytable
+    pypi_id: prettytable
+  - name: python-coloredlogs
+    github_id: xolox/python-coloredlogs
+    category: logging
+    pypi_id: coloredlogs
+  - name: mamba
+    github_id: mamba-org/mamba
+    category: dependency-managers
+    conda_id: conda-forge/mamba
+  - name: Bpytop
+    pypi_id: bpytop
+    github_id: aristocratos/bpytop
+    category: profiling
+  - name: unittest
+    homepage: https://docs.python.org/3/library/unittest.html
+    description: "Unittest is a test framework included in the Python standard library."
+    resource: True
+    category: testing
