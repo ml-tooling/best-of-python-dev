@@ -1232,3 +1232,7 @@ projects:
     github_id: Erotemic/xdoctest
     conda_forge: conda-forge/xdoctest
     category: testing
+  - name: snoop
+    pypi_id: snoop
+    github_id: alexmojaki/snoop
+    category: debugging
