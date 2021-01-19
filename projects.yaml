@@ -1236,3 +1236,7 @@ projects:
     pypi_id: snoop
     github_id: alexmojaki/snoop
     category: debugging
+  - name: Birdseye
+    pypi_id: birdseye
+    github_id: alexmojaki/birdseye
+    category: debugging
