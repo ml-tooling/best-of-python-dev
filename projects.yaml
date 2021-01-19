@@ -1227,7 +1227,7 @@ projects:
     description: "Unittest is a test framework included in the Python standard library."
     resource: True
     category: testing
-   - name: xdoctest
+  - name: xdoctest
     pypi_id: xdoctest
     github_id: Erotemic/xdoctest
     conda_forge: conda-forge/xdoctest
