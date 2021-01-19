@@ -1240,3 +1240,8 @@ projects:
     pypi_id: birdseye
     github_id: alexmojaki/birdseye
     category: debugging
+  - name: rich
+    pypi_id: rich
+    github_id: willmcgugan/rich
+    conda_id: conda-forge/rich
+    category: logging
