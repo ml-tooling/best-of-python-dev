@@ -1210,9 +1210,10 @@ projects:
   - name: tqdm
     github_id: tqdm/tqdm
     category: logging
-    license: MIT
+    license: MPL-2.0
     pypi_id: tqdm
     conda_id: conda-forge/tqdm
+    dockerhub_id: tqdm/tqdm
   - name: playwright-python
     github_id: microsoft/playwright-python
     category: testing
