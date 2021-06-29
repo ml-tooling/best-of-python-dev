@@ -136,6 +136,16 @@ projects:
     category: documentation
     conda_id: conda-forge/blacken-docs
     pypi_id: blacken-docs
+  - name: mkdocstrings
+    github_id: mkdocstrings/mkdocstrings
+    labels: ["mkdocs"]
+    category: documentation
+    conda_id: conda-forge/mkdocstrings
+    pypi_id: mkdocstrings
+  - name: pdoc3
+    github_id: pdoc3/pdoc
+    category: documentation
+    pypi_id: pdoc3
   - name: isort
     github_id: PyCQA/isort
     category: formatters
@@ -280,6 +290,15 @@ projects:
     category: linters
     labels: ["flake8", "mypy"]
     pypi_id: linty-fresh
+  - name: python-devtools
+    github_id: samuelcolvin/python-devtools
+    category: logging
+    pypi_id: python-devtools
+  - name: wasabi
+    github_id: ines/wasabi
+    category: logging
+    conda_id: conda-forge/wasabi
+    pypi_id: wasabi
   - name: loguru
     github_id: Delgan/loguru
     category: logging
@@ -294,6 +313,13 @@ projects:
     category: dependency-managers
     conda_id: conda-forge/pipreqs
     pypi_id: pipreqs
+  - name: heartrate
+    github_id: alexmojaki/heartrate
+    category: profiling
+    pypi_id: heartrate
+  - name: livepython
+    github_id: agermanidis/livepython
+    category: profiling
   - name: pympler
     github_id: pympler/pympler
     category: profiling
@@ -328,7 +354,7 @@ projects:
     category: profiling
   - name: Scalene
     pypi_id: scalene
-    github_id: emeryberger/scalene
+    github_id: plasma-umass/scalene
     category: profiling
   - name: pyinstrument
     pypi_id: pyinstrument
@@ -416,6 +442,10 @@ projects:
     github_id: ilevkivskyi/com2ann
     category: refactoring
     pypi_id: com2ann
+  - name: detect-secrets
+    github_id: Yelp/detect-secrets
+    category: security
+    pypi_id: detect-secrets
   - name: bandit
     github_id: PyCQA/bandit
     category: security
@@ -964,7 +994,7 @@ projects:
     category: testing
     pypi_id: mamba
   - name: coveralls-python
-    github_id: coveralls-clients/coveralls-python
+    github_id: TheKevJames/coveralls-python
     category: testing
     labels: ["pytest"]
     pypi_id: coveralls
@@ -1047,7 +1077,7 @@ projects:
     category: build-tools
     pypi_id: pynt
   - name: pipx
-    github_id: pipxproject/pipx
+    github_id: pypa/pipx
     category: dependency-managers
     pypi_id: pipx
   - name: pip-run
@@ -1070,11 +1100,6 @@ projects:
     github_id: timothycrosley/portray
     category: documentation
     pypi_id: portray
-  - name: mkdocstrings
-    github_id: pawamoy/mkdocstrings
-    category: documentation
-    labels: ["mkdocs"]
-    pypi_id: mkdocstrings
   - name: mkdocs-pdf-export-plugin
     github_id: zhaoterryy/mkdocs-pdf-export-plugin
     category: documentation
@@ -1245,3 +1270,7 @@ projects:
     github_id: willmcgugan/rich
     conda_id: conda-forge/rich
     category: logging
+  - name: briefcase
+    github_id: beeware/briefcase
+    category: packaging
+    pypi_id: briefcase
