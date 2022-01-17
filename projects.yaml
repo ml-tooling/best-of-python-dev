@@ -59,47 +59,48 @@ projects:
     github_id: python/typed_ast
     category: ast
     pypi_id: typed_ast
+    conda_id: conda-forge/typed-ast
   - name: gast
     github_id: serge-sans-paille/gast
     category: ast
-    conda_id: conda-forge/gast
     pypi_id: gast
+    conda_id: conda-forge/gast
   - name: astor
     github_id: berkerpeksag/astor
     category: ast
-    conda_id: conda-forge/astor
     pypi_id: astor
+    conda_id: conda-forge/astor
   - name: astunparse
     github_id: simonpercivall/astunparse
     category: ast
-    conda_id: conda-forge/astunparse
     pypi_id: astunparse
+    conda_id: conda-forge/astunparse
   - name: asteval
     github_id: newville/asteval
     category: ast
-    conda_id: conda-forge/asteval
     pypi_id: asteval
+    conda_id: conda-forge/asteval
   - name: mccabe
     github_id: PyCQA/mccabe
     category: code-metrics
-    conda_id: conda-forge/mccabe
-    show: True
     pypi_id: mccabe
+    conda_id: conda-forge/mccabe
+    show: true
   - name: radon
     github_id: rubik/radon
     category: code-metrics
-    conda_id: conda-forge/radon
     pypi_id: radon
+    conda_id: conda-forge/radon
   - name: prospector
     github_id: PyCQA/prospector
     category: code-metrics
-    conda_id: conda-forge/prospector
     pypi_id: prospector
+    conda_id: conda-forge/prospector
   - name: xenon
     github_id: rubik/xenon
     category: code-metrics
-    conda_id: conda-forge/xenon
     pypi_id: xenon
+    conda_id: conda-forge/xenon
   - name: wily
     github_id: tonybaloney/wily
     category: code-metrics
@@ -108,21 +109,22 @@ projects:
     github_id: mschwager/cohesion
     category: code-metrics
     pypi_id: cohesion
+    conda_id: conda-forge/cohesion
   - name: pudb
     github_id: inducer/pudb
     category: debugging
-    conda_id: conda-forge/pudb
     pypi_id: pudb
+    conda_id: conda-forge/pudb
   - name: conda
     github_id: conda/conda
     category: dependency-managers
-    conda_id: conda-forge/conda
     pypi_id: conda
+    conda_id: conda-forge/conda
   - name: poetry
     github_id: python-poetry/poetry
     category: dependency-managers
-    conda_id: conda-forge/poetry
     pypi_id: poetry
+    conda_id: conda-forge/poetry
   - name: dephell
     github_id: dephell/dephell
     category: dependency-managers
@@ -134,42 +136,44 @@ projects:
   - name: blacken-docs
     github_id: asottile/blacken-docs
     category: documentation
-    conda_id: conda-forge/blacken-docs
     pypi_id: blacken-docs
+    conda_id: conda-forge/blacken-docs
   - name: mkdocstrings
     github_id: mkdocstrings/mkdocstrings
-    labels: ["mkdocs"]
     category: documentation
-    conda_id: conda-forge/mkdocstrings
     pypi_id: mkdocstrings
+    conda_id: conda-forge/mkdocstrings
+    labels: ["mkdocs"]
   - name: pdoc3
     github_id: pdoc3/pdoc
     category: documentation
     pypi_id: pdoc3
+    conda_id: anaconda/pdoc3
   - name: isort
     github_id: PyCQA/isort
     category: formatters
-    conda_id: conda-forge/isort
     pypi_id: isort
+    conda_id: conda-forge/isort
   - name: black
     github_id: psf/black
     category: formatters
-    conda_id: conda-forge/black
     pypi_id: black
+    conda_id: conda-forge/black
   - name: yapf
     github_id: google/yapf
     category: formatters
-    conda_id: conda-forge/yapf
     pypi_id: yapf
+    conda_id: conda-forge/yapf
   - name: autopep8
     github_id: hhatto/autopep8
     category: formatters
-    conda_id: conda-forge/autopep8
     pypi_id: autopep8
+    conda_id: conda-forge/autopep8
   - name: docformatter
     github_id: myint/docformatter
     category: formatters
     pypi_id: docformatter
+    conda_id: conda-forge/docformatter
   - name: pyformat
     github_id: myint/pyformat
     category: formatters
@@ -177,62 +181,63 @@ projects:
   - name: mypy
     github_id: python/mypy
     category: linters
-    conda_id: conda-forge/mypy
     pypi_id: mypy
+    conda_id: conda-forge/mypy
   - name: pylint
     github_id: PyCQA/pylint
     category: linters
-    conda_id: conda-forge/pylint
     pypi_id: pylint
+    conda_id: conda-forge/pylint
   - name: flake8
     github_id: PyCQA/flake8
     category: linters
-    conda_id: conda-forge/flake8
-    description: "Flake8 is a wrapper around these tools: PyFlakes; pycodestyle; Ned Batchelder's McCabe script."
     pypi_id: flake8
+    conda_id: conda-forge/flake8
+    description: 'Flake8 is a wrapper around these tools: PyFlakes; pycodestyle; Ned
+      Batchelder"s McCabe script.'
   - name: pycodestyle
     github_id: PyCQA/pycodestyle
     category: linters
-    conda_id: conda-forge/pycodestyle
-    show: True
     pypi_id: pycodestyle
+    conda_id: conda-forge/pycodestyle
+    show: true
   - name: parso
     github_id: davidhalter/parso
     category: linters
-    conda_id: conda-forge/parso
     pypi_id: parso
+    conda_id: conda-forge/parso
   - name: pyflakes
     github_id: PyCQA/pyflakes
     category: linters
-    conda_id: conda-forge/pyflakes
     pypi_id: pyflakes
+    conda_id: conda-forge/pyflakes
   - name: pydocstyle
     github_id: PyCQA/pydocstyle
     category: linters
-    conda_id: conda-forge/pydocstyle
     pypi_id: pydocstyle
+    conda_id: conda-forge/pydocstyle
   - name: flake8-bugbear
     github_id: PyCQA/flake8-bugbear
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-bugbear
     pypi_id: flake8-bugbear
+    conda_id: conda-forge/flake8-bugbear
+    labels: ["flake8"]
   - name: hacking
     github_id: openstack/hacking
     category: linters
-    labels: ["flake8"]
     pypi_id: hacking
+    labels: ["flake8"]
   - name: pylint-django
     github_id: PyCQA/pylint-django
     category: linters
-    labels: ["pylint"]
-    conda_id: conda-forge/pylint-django
     pypi_id: pylint-django
+    conda_id: conda-forge/pylint-django
+    labels: ["pylint"]
   - name: pytype
     github_id: google/pytype
     category: linters
-    conda_id: conda-forge/pytype
     pypi_id: pytype
+    conda_id: conda-forge/pytype
   - name: wemake-python-styleguide
     github_id: wemake-services/wemake-python-styleguide
     category: linters
@@ -244,35 +249,35 @@ projects:
   - name: pep8-naming
     github_id: PyCQA/pep8-naming
     category: linters
-    conda_id: conda-forge/pep8-naming
     pypi_id: pep8-naming
+    conda_id: conda-forge/pep8-naming
   - name: check-manifest
     github_id: mgedmin/check-manifest
     category: linters
-    conda_id: conda-forge/check-manifest
     pypi_id: check-manifest
+    conda_id: conda-forge/check-manifest
   - name: flake8-import-order
     github_id: PyCQA/flake8-import-order
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-import-order
     pypi_id: flake8-import-order
+    conda_id: conda-forge/flake8-import-order
+    labels: ["flake8"]
   - name: pylint-flask
     github_id: jschaf/pylint-flask
     category: linters
-    labels: ["pylint"]
-    conda_id: conda-forge/pylint-flask
     pypi_id: pylint-flask
+    conda_id: conda-forge/pylint-flask
+    labels: ["pylint"]
   - name: pyright
     github_id: Microsoft/pyright
+    category: linters
     npm_id: pyright
     license: MIT
-    category: linters
   - name: flake8-mypy
     github_id: ambv/flake8-mypy
     category: linters
-    labels: ["flake8"]
     pypi_id: flake8-mypy
+    labels: ["flake8"]
   - name: bellybutton
     github_id: hchasestevens/bellybutton
     category: linters
@@ -288,22 +293,23 @@ projects:
   - name: linty_fresh
     github_id: lyft/linty_fresh
     category: linters
-    labels: ["flake8", "mypy"]
     pypi_id: linty-fresh
+    labels: ["flake8", "mypy"]
   - name: python-devtools
     github_id: samuelcolvin/python-devtools
     category: logging
     pypi_id: python-devtools
+    conda_id: conda-forge/python-devtools
   - name: wasabi
     github_id: ines/wasabi
     category: logging
-    conda_id: conda-forge/wasabi
     pypi_id: wasabi
+    conda_id: conda-forge/wasabi
   - name: loguru
     github_id: Delgan/loguru
     category: logging
-    conda_id: conda-forge/loguru
     pypi_id: loguru
+    conda_id: conda-forge/loguru
   - name: better-exceptions
     github_id: Qix-/better-exceptions
     category: logging
@@ -311,86 +317,89 @@ projects:
   - name: pipreqs
     github_id: bndr/pipreqs
     category: dependency-managers
-    conda_id: conda-forge/pipreqs
     pypi_id: pipreqs
+    conda_id: conda-forge/pipreqs
   - name: heartrate
     github_id: alexmojaki/heartrate
     category: profiling
     pypi_id: heartrate
+    conda_id: conda-forge/heartrate
   - name: livepython
     github_id: agermanidis/livepython
     category: profiling
   - name: pympler
     github_id: pympler/pympler
     category: profiling
-    conda_id: conda-forge/pympler
     pypi_id: pympler
+    conda_id: conda-forge/pympler
   - name: memory-profiler
-    pypi_id: memory_profiler
     github_id: pythonprofilers/memory_profiler
     category: profiling
+    pypi_id: memory_profiler
+    conda_id: conda-forge/memory_profiler
   - name: psutil
-    pypi_id: psutil
     github_id: giampaolo/psutil
-    conda_id: conda-forge/psutil
     category: profiling
+    pypi_id: psutil
+    conda_id: conda-forge/psutil
   - name: Diamond
-    pypi_id: diamond
     github_id: python-diamond/Diamond
     category: profiling
+    pypi_id: diamond
   - name: Profiling
-    pypi_id: profiling
     github_id: what-studio/profiling
     category: profiling
+    pypi_id: profiling
   - name: Glances
-    pypi_id: glances
     github_id: nicolargo/glances
+    category: profiling
+    pypi_id: glances
     conda_id: conda-forge/glances
-    category: profiling
   - name: py-spy
-    pypi_id: py-spy
     github_id: benfred/py-spy
-    cargo_id: py-spy
     category: profiling
+    pypi_id: py-spy
+    conda_id: conda-forge/py-spy
+    cargo_id: py-spy
   - name: Scalene
-    pypi_id: scalene
     github_id: plasma-umass/scalene
     category: profiling
+    pypi_id: scalene
   - name: pyinstrument
-    pypi_id: pyinstrument
     github_id: joerick/pyinstrument
+    category: profiling
+    pypi_id: pyinstrument
     conda_id: conda-forge/pyinstrument
-    category: profiling
   - name: Yappi
-    pypi_id: yappi
     github_id: sumerc/yappi
+    category: profiling
+    pypi_id: yappi
     conda_id: conda-forge/yappi
-    category: profiling
   - name: line_profiler
-    pypi_id: line_profiler
     github_id: pyutils/line_profiler
-    conda_id: conda-forge/line_profiler
     category: profiling
+    pypi_id: line_profiler
+    conda_id: conda-forge/line_profiler
   - name: rope
     github_id: python-rope/rope
     category: refactoring
-    conda_id: conda-forge/rope
     pypi_id: rope
+    conda_id: conda-forge/rope
   - name: vulture
     github_id: jendrikseipp/vulture
     category: refactoring
-    conda_id: conda-forge/vulture
     pypi_id: vulture
+    conda_id: conda-forge/vulture
   - name: autoflake
     github_id: myint/autoflake
     category: refactoring
-    conda_id: conda-forge/autoflake
     pypi_id: autoflake
+    conda_id: conda-forge/autoflake
   - name: Bowler
     github_id: facebookincubator/Bowler
     category: refactoring
-    conda_id: conda-forge/bowler
     pypi_id: bowler
+    conda_id: conda-forge/bowler
   - name: redbaron
     github_id: pycqa/redbaron
     category: refactoring
@@ -398,13 +407,13 @@ projects:
   - name: MonkeyType
     github_id: Instagram/MonkeyType
     category: refactoring
-    conda_id: conda-forge/monkeytype
     pypi_id: monkeytype
+    conda_id: conda-forge/monkeytype
   - name: pyupgrade
     github_id: asottile/pyupgrade
     category: refactoring
-    conda_id: conda-forge/pyupgrade
     pypi_id: pyupgrade
+    conda_id: conda-forge/pyupgrade
   - name: baron
     github_id: PyCQA/baron
     category: refactoring
@@ -413,10 +422,12 @@ projects:
     github_id: myint/unify
     category: refactoring
     pypi_id: unify
+    conda_id: conda-forge/unify
   - name: eradicate
     github_id: myint/eradicate
     category: refactoring
     pypi_id: eradicate
+    conda_id: conda-forge/eradicate
   - name: add-trailing-comma
     github_id: asottile/add-trailing-comma
     category: refactoring
@@ -432,8 +443,8 @@ projects:
   - name: retype
     github_id: ambv/retype
     category: refactoring
-    conda_id: conda-forge/retype
     pypi_id: retype
+    conda_id: conda-forge/retype
   - name: pep8ify
     github_id: spulec/pep8ify
     category: refactoring
@@ -449,22 +460,23 @@ projects:
   - name: bandit
     github_id: PyCQA/bandit
     category: security
-    conda_id: conda-forge/bandit
     pypi_id: bandit
+    conda_id: conda-forge/bandit
   - name: safety
     github_id: pyupio/safety
     category: security
-    conda_id: conda-forge/safety
     pypi_id: safety
+    conda_id: conda-forge/safety
   - name: dodgy
     github_id: landscapeio/dodgy
     category: security
-    conda_id: conda-forge/dodgy
     pypi_id: dodgy
+    conda_id: conda-forge/dodgy
   - name: dlint
     github_id: dlint-py/dlint
     category: security
     pypi_id: dlint
+    conda_id: conda-forge/dlint
   - name: pyt
     github_id: python-security/pyt
     category: security
@@ -472,13 +484,13 @@ projects:
   - name: pipenv
     github_id: pypa/pipenv
     category: virtual-envs
-    conda_id: conda-forge/pipenv
     pypi_id: pipenv
+    conda_id: conda-forge/pipenv
   - name: virtualenv
     github_id: pypa/virtualenv
     category: virtual-envs
-    conda_id: conda-forge/virtualenv
     pypi_id: virtualenv
+    conda_id: conda-forge/virtualenv
   - name: pyenv
     github_id: pyenv/pyenv
     category: virtual-envs
@@ -499,38 +511,39 @@ projects:
   - name: pytest
     github_id: pytest-dev/pytest
     category: testing
+    pypi_id: pytest
     conda_id: conda-forge/pytest
     labels: ["pytest"]
-    pypi_id: pytest
   - name: robotframework
     github_id: robotframework/robotframework
     category: testing
-    conda_id: conda-forge/robotframework
     pypi_id: robotframework
+    conda_id: conda-forge/robotframework
   - name: hypothesis
     github_id: HypothesisWorks/hypothesis
     category: testing
-    conda_id: conda-forge/hypothesis
     pypi_id: hypothesis
+    conda_id: conda-forge/hypothesis
   - name: pyautogui
     github_id: asweigart/pyautogui
     category: testing
-    conda_id: conda-forge/pyautogui
     pypi_id: pyautogui
+    conda_id: conda-forge/pyautogui
   - name: mimesis
     github_id: lk-geimfari/mimesis
     category: testing
     pypi_id: mimesis
+    conda_id: conda-forge/mimesis
   - name: freezegun
     github_id: spulec/freezegun
     category: testing
-    conda_id: conda-forge/freezegun
     pypi_id: freezegun
+    conda_id: conda-forge/freezegun
   - name: factory_boy
     github_id: FactoryBoy/factory_boy
     category: testing
-    conda_id: conda-forge/factory_boy
     pypi_id: factory_boy
+    conda_id: conda-forge/factory_boy
   - name: fake2db
     github_id: emirozer/fake2db
     category: testing
@@ -542,18 +555,18 @@ projects:
   - name: green
     github_id: CleanCut/green
     category: testing
-    conda_id: conda-forge/green
     pypi_id: green
+    conda_id: conda-forge/green
   - name: nose2
     github_id: nose-devs/nose2
     category: testing
-    conda_id: conda-forge/nose2
     pypi_id: nose2
+    conda_id: conda-forge/nose2
   - name: buildbot
     github_id: buildbot/buildbot
     category: build-tools
-    conda_id: conda-forge/buildbot
     pypi_id: buildbot
+    conda_id: conda-forge/buildbot
   - name: tbvaccine
     github_id: skorokithakis/tbvaccine
     category: logging
@@ -569,63 +582,63 @@ projects:
   - name: nose
     github_id: nose-devs/nose
     category: testing
-    conda_id: conda-forge/nose
     pypi_id: nose
+    conda_id: conda-forge/nose
   - name: pytest-bdd
     github_id: pytest-dev/pytest-bdd
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-bdd
     pypi_id: pytest-bdd
+    conda_id: conda-forge/pytest-bdd
+    labels: ["pytest"]
   - name: pytest-benchmark
     github_id: ionelmc/pytest-benchmark
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-benchmark
     pypi_id: pytest-benchmark
+    conda_id: conda-forge/pytest-benchmark
+    labels: ["pytest"]
   - name: pytest-xdist
     github_id: pytest-dev/pytest-xdist
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-xdist
     pypi_id: pytest-xdist
+    conda_id: conda-forge/pytest-xdist
+    labels: ["pytest"]
   - name: asv
     github_id: airspeed-velocity/asv
     category: testing
-    conda_id: conda-forge/asv
     pypi_id: asv
+    conda_id: conda-forge/asv
   - name: PyHamcrest
     github_id: hamcrest/PyHamcrest
     category: testing
-    conda_id: conda-forge/pyhamcrest
     pypi_id: pyhamcrest
+    conda_id: conda-forge/pyhamcrest
   - name: ddt
     github_id: datadriventests/ddt
     category: testing
-    conda_id: conda-forge/ddt
     pypi_id: ddt
+    conda_id: conda-forge/ddt
   - name: assertpy
     github_id: ActivisionGameScience/assertpy
     category: testing
-    conda_id: conda-forge/assertpy
     pypi_id: assertpy
+    conda_id: conda-forge/assertpy
   - name: pytest-lazy-fixture
     github_id: tvorog/pytest-lazy-fixture
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-lazy-fixture
     pypi_id: pytest-lazy-fixture
+    conda_id: conda-forge/pytest-lazy-fixture
+    labels: ["pytest"]
   - name: pytest-datadir
     github_id: gabrielcnr/pytest-datadir
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-datadir
     pypi_id: pytest-datadir
+    conda_id: conda-forge/pytest-datadir
+    labels: ["pytest"]
   - name: pytest-play
     github_id: pytest-dev/pytest-play
     category: testing
-    labels: ["pytest"]
     pypi_id: pytest-play
+    labels: ["pytest"]
   - name: vex
     github_id: sashahart/vex
     category: virtual-envs
@@ -634,29 +647,32 @@ projects:
     github_id: gruns/icecream
     category: debugging
     pypi_id: icecream
+    conda_id: conda-forge/icecream
   - name: ipdb
     github_id: gotcha/ipdb
     category: debugging
-    conda_id: conda-forge/ipdb
     pypi_id: ipdb
+    conda_id: conda-forge/ipdb
   - name: pyelftools
     github_id: eliben/pyelftools
     category: debugging
-    conda_id: conda-forge/pyelftools
     pypi_id: pyelftools
+    conda_id: conda-forge/pyelftools
   - name: pdbpp
     github_id: pdbpp/pdbpp
     category: debugging
-    conda_id: conda-forge/pdbpp
     pypi_id: pdbpp
+    conda_id: conda-forge/pdbpp
   - name: python-hunter
     github_id: ionelmc/python-hunter
     category: debugging
     pypi_id: hunter
+    conda_id: conda-forge/hunter
   - name: python-manhole
     github_id: ionelmc/python-manhole
     category: debugging
     pypi_id: manhole
+    conda_id: conda-forge/manhole
   - name: vprof
     github_id: nvdv/vprof
     category: profiling
@@ -664,27 +680,23 @@ projects:
   - name: memory_profiler
     github_id: fabianp/memory_profiler
     category: profiling
-    conda_id: conda-forge/memory_profiler
     pypi_id: memory_profiler
-  - name: Python.org Packaging
-    homepage: https://packaging.python.org/overview/
-    resource: True
-    description: "An Overview of Packaging for Python"
-    category: packaging
+    conda_id: conda-forge/memory_profiler
   - name: pybuilder
     github_id: pybuilder/pybuilder
     category: build-tools
     pypi_id: pybuilder
+    conda_id: conda-forge/pybuilder
   - name: setuptools_scm
     github_id: pypa/setuptools_scm
     category: build-tools
-    conda_id: conda-forge/setuptools_scm
     pypi_id: setuptools_scm
+    conda_id: conda-forge/setuptools_scm
   - name: PySnooper
     github_id: cool-RR/PySnooper
     category: debugging
-    conda_id: conda-forge/pysnooper
     pypi_id: pysnooper
+    conda_id: conda-forge/pysnooper
   - name: gdbgui
     github_id: cs01/gdbgui
     category: debugging
@@ -696,41 +708,41 @@ projects:
   - name: typeguard
     github_id: agronholm/typeguard
     category: debugging
-    conda_id: conda-forge/typeguard
     pypi_id: typeguard
+    conda_id: conda-forge/typeguard
   - name: pip
     github_id: pypa/pip
     category: dependency-managers
-    conda_id: conda-forge/pip
     pypi_id: pip
+    conda_id: conda-forge/pip
   - name: pip-tools
     github_id: jazzband/pip-tools
     category: dependency-managers
-    conda_id: conda-forge/pip-tools
     pypi_id: pip-tools
+    conda_id: conda-forge/pip-tools
   - name: numpydoc
     github_id: numpy/numpydoc
     category: documentation
-    labels: ["sphinx"]
-    conda_id: conda-forge/numpydoc
     pypi_id: numpydoc
+    conda_id: conda-forge/numpydoc
+    labels: ["sphinx"]
   - name: sphinx
     github_id: sphinx-doc/sphinx
     category: documentation
-    labels: ["sphinx"]
-    conda_id: conda-forge/sphinx
     pypi_id: sphinx
+    conda_id: conda-forge/sphinx
+    labels: ["sphinx"]
   - name: sphinx_rtd_theme
     github_id: readthedocs/sphinx_rtd_theme
     category: documentation
-    labels: ["sphinx"]
-    conda_id: conda-forge/sphinx_rtd_theme
     pypi_id: sphinx_rtd_theme
+    conda_id: conda-forge/sphinx_rtd_theme
+    labels: ["sphinx"]
   - name: pycco
     github_id: pycco-docs/pycco
     category: documentation
-    license: MIT
     pypi_id: pycco
+    license: MIT
   - name: pdoc
     github_id: mitmproxy/pdoc
     category: documentation
@@ -738,31 +750,31 @@ projects:
   - name: alabaster
     github_id: bitprophet/alabaster
     category: documentation
-    labels: ["sphinx"]
-    conda_id: conda-forge/alabaster
     pypi_id: alabaster
+    conda_id: conda-forge/alabaster
+    labels: ["sphinx"]
   - name: sphinx-bootstrap-theme
     github_id: ryan-roemer/sphinx-bootstrap-theme
     category: documentation
-    labels: ["sphinx"]
     pypi_id: sphinx-bootstrap-theme
+    labels: ["sphinx"]
   - name: breathe
     github_id: michaeljones/breathe
     category: documentation
-    conda_id: conda-forge/breathe
     pypi_id: breathe
+    conda_id: conda-forge/breathe
   - name: sphinx-autodoc-typehints
-    github_id: agronholm/sphinx-autodoc-typehints
+    github_id: tox-dev/sphinx-autodoc-typehints
     category: documentation
-    labels: ["sphinx"]
-    conda_id: conda-forge/sphinx-autodoc-typehints
     pypi_id: sphinx-autodoc-typehints
+    conda_id: conda-forge/sphinx-autodoc-typehints
+    labels: ["sphinx"]
   - name: sphinx-autobuild
     github_id: executablebooks/sphinx-autobuild
     category: documentation
-    labels: ["sphinx"]
-    conda_id: conda-forge/sphinx-autobuild
     pypi_id: sphinx-autobuild
+    conda_id: conda-forge/sphinx-autobuild
+    labels: ["sphinx"]
   - name: interrogate
     github_id: econchick/interrogate
     category: documentation
@@ -770,13 +782,14 @@ projects:
   - name: releases
     github_id: bitprophet/releases
     category: documentation
-    labels: ["sphinx"]
     pypi_id: releases
-  - name: sphinx-markdown-builder
-    github_id: codejamninja/sphinx-markdown-builder
-    category: documentation
+    conda_id: conda-forge/sphinx-releases
     labels: ["sphinx"]
+  - name: sphinx-markdown-builder
+    github_id: clayrisser/sphinx-markdown-builder
+    category: documentation
     pypi_id: sphinx-markdown-builder
+    labels: ["sphinx"]
   - name: coala
     github_id: coala/coala
     category: linters
@@ -789,17 +802,18 @@ projects:
     github_id: dropbox/mypy-protobuf
     category: linters
     pypi_id: mypy-protobuf
+    conda_id: conda-forge/mypy-protobuf
   - name: darglint
     github_id: terrencepreilly/darglint
     category: linters
-    conda_id: conda-forge/darglint
     pypi_id: darglint
+    conda_id: conda-forge/darglint
   - name: flake8-comprehensions
     github_id: adamchainz/flake8-comprehensions
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-comprehensions
     pypi_id: flake8-comprehensions
+    conda_id: conda-forge/flake8-comprehensions
+    labels: ["flake8"]
   - name: Fixit
     github_id: Instagram/Fixit
     category: linters
@@ -807,87 +821,90 @@ projects:
   - name: flakehell
     github_id: life4/flakehell
     category: linters
-    labels: ["flake8"]
     pypi_id: flakehell
+    labels: ["flake8"]
   - name: flake8-eradicate
     github_id: wemake-services/flake8-eradicate
     category: linters
-    labels: ["flake8"]
     pypi_id: flake8-eradicate
+    conda_id: conda-forge/flake8-eradicate
+    labels: ["flake8"]
   - name: data-science-types
     github_id: predictive-analytics-lab/data-science-types
     category: linters
     pypi_id: data-science-types
+    conda_id: conda-forge/data-science-types
   - name: beartype
     github_id: beartype/beartype
     category: linters
-    conda_id: conda-forge/beartype
     pypi_id: beartype
+    conda_id: conda-forge/beartype
   - name: flake8-commas
     github_id: PyCQA/flake8-commas
     category: linters
-    labels: ["flake8"]
     pypi_id: flake8-commas
+    labels: ["flake8"]
   - name: flake8-quotes
     github_id: zheller/flake8-quotes
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-quotes
     pypi_id: flake8-quotes
+    conda_id: conda-forge/flake8-quotes
+    labels: ["flake8"]
   - name: nitpick
     github_id: andreoliwa/nitpick
     category: linters
-    labels: ["flake8"]
     pypi_id: nitpick
+    labels: ["flake8"]
   - name: flake8-isort
     github_id: gforcada/flake8-isort
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-isort
     pypi_id: flake8-isort
+    conda_id: conda-forge/flake8-isort
+    labels: ["flake8"]
     license: GPL-2.0
   - name: pandas-vet
     github_id: deppen8/pandas-vet
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/pandas-vet
     pypi_id: pandas-vet
+    conda_id: conda-forge/pandas-vet
+    labels: ["flake8"]
   - name: flake8-black
     github_id: peterjc/flake8-black
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-black
     pypi_id: flake8-black
+    conda_id: conda-forge/flake8-black
+    labels: ["flake8"]
   - name: flake8-builtins
     github_id: gforcada/flake8-builtins
     category: linters
-    labels: ["flake8"]
-    conda_id: conda-forge/flake8-builtins
     pypi_id: flake8-builtins
+    conda_id: conda-forge/flake8-builtins
+    labels: ["flake8"]
   - name: flake8-bandit
     github_id: tylerwince/flake8-bandit
     category: linters
-    labels: ["flake8"]
     pypi_id: flake8-bandit
+    labels: ["flake8"]
   - name: structlog
     github_id: hynek/structlog
     category: logging
-    conda_id: conda-forge/structlog
     pypi_id: structlog
+    conda_id: conda-forge/structlog
   - name: logbook
     github_id: getlogbook/logbook
     category: logging
-    conda_id: conda-forge/logbook
     pypi_id: logbook
+    conda_id: conda-forge/logbook
   - name: stackprinter
     github_id: cknd/stackprinter
     category: logging
     pypi_id: stackprinter
+    conda_id: conda-forge/stackprinter
   - name: pyinstaller
     github_id: pyinstaller/pyinstaller
     category: packaging
-    conda_id: conda-forge/pyinstaller
     pypi_id: pyinstaller
+    conda_id: conda-forge/pyinstaller
     license: GPL-2.0
   - name: pex
     github_id: pantsbuild/pex
@@ -904,9 +921,9 @@ projects:
   - name: cx_Freeze
     github_id: marcelotduarte/cx_Freeze
     category: packaging
-    conda_id: conda-forge/cx_freeze
     pypi_id: cx_freeze
-    show: True
+    conda_id: conda-forge/cx_freeze
+    show: true
   - name: constructor
     github_id: conda/constructor
     category: packaging
@@ -926,8 +943,8 @@ projects:
   - name: jedi
     github_id: davidhalter/jedi
     category: refactoring
-    conda_id: conda-forge/jedi
     pypi_id: jedi
+    conda_id: conda-forge/jedi
   - name: pyannotate
     github_id: dropbox/pyannotate
     category: refactoring
@@ -939,56 +956,57 @@ projects:
   - name: tox
     github_id: tox-dev/tox
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/tox
     pypi_id: tox
+    conda_id: conda-forge/tox
+    labels: ["pytest"]
   - name: pytest-testinfra
     github_id: pytest-dev/pytest-testinfra
     category: testing
-    labels: ["pytest"]
     pypi_id: pytest-testinfra
+    conda_id: conda-forge/pytest-testinfra
+    labels: ["pytest"]
   - name: pytest-mock
     github_id: pytest-dev/pytest-mock
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-mock
     pypi_id: pytest-mock
+    conda_id: conda-forge/pytest-mock
+    labels: ["pytest"]
   - name: pytest-cov
     github_id: pytest-dev/pytest-cov
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-cov
     pypi_id: pytest-cov
+    conda_id: conda-forge/pytest-cov
+    labels: ["pytest"]
   - name: pytest-sugar
     github_id: Teemu/pytest-sugar
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-sugar
     pypi_id: pytest-sugar
+    conda_id: conda-forge/pytest-sugar
+    labels: ["pytest"]
   - name: pytest-asyncio
     github_id: pytest-dev/pytest-asyncio
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-asyncio
     pypi_id: pytest-asyncio
+    conda_id: conda-forge/pytest-asyncio
+    labels: ["pytest"]
   - name: pytest-watch
     github_id: joeyespo/pytest-watch
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-watch
     pypi_id: pytest-watch
+    conda_id: conda-forge/pytest-watch
+    labels: ["pytest"]
   - name: nox
     github_id: theacodes/nox
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/nox
     pypi_id: nox
+    conda_id: conda-forge/nox
+    labels: ["pytest"]
   - name: pytest-testmon
     github_id: tarpas/pytest-testmon
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-testmon
     pypi_id: pytest-testmon
+    conda_id: conda-forge/pytest-testmon
+    labels: ["pytest"]
   - name: Mamba Test Runner
     github_id: nestorsalceda/mamba
     category: testing
@@ -996,82 +1014,87 @@ projects:
   - name: coveralls-python
     github_id: TheKevJames/coveralls-python
     category: testing
-    labels: ["pytest"]
     pypi_id: coveralls
+    conda_id: conda-forge/coveralls
+    labels: ["pytest"]
   - name: pytest-html
     github_id: pytest-dev/pytest-html
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-html
     pypi_id: pytest-html
+    conda_id: conda-forge/pytest-html
+    labels: ["pytest"]
   - name: pytest-plugins
     github_id: man-group/pytest-plugins
     category: testing
+    pypi_id: pytest-virtualenv
+    conda_id: conda-forge/pytest-shutil
   - name: pytest-randomly
     github_id: pytest-dev/pytest-randomly
     category: testing
     pypi_id: pytest-randomly
+    conda_id: conda-forge/pytest-randomly
   - name: pytest-mypy
     github_id: dbader/pytest-mypy
     category: testing
-    labels: ["pytest"]
-    conda_id: conda-forge/pytest-mypy
     pypi_id: pytest-mypy
+    conda_id: conda-forge/pytest-mypy
+    labels: ["pytest"]
   - name: pytest-docker
     github_id: avast/pytest-docker
     category: testing
-    labels: ["pytest"]
     pypi_id: pytest-docker
+    labels: ["pytest"]
   - name: best-of-web-python - Testing
     github_id: ml-tooling/best-of-web-python
-    description: "Testing libraries & tools for python web frameworks."
-    resource: True
     category: testing
+    description: Testing libraries & tools for python web frameworks.
+    resource: true
   - name: invoke
     github_id: pyinvoke/invoke
     category: build-tools
-    conda_id: conda-forge/invoke
     pypi_id: invoke
+    conda_id: conda-forge/invoke
   - name: flit
-    github_id: takluyver/flit
+    github_id: pypa/flit
     category: build-tools
-    conda_id: conda-forge/flit
     pypi_id: flit
+    conda_id: conda-forge/flit
   - name: setuptools
     github_id: pypa/setuptools
     category: build-tools
-    conda_id: conda-forge/setuptools
     pypi_id: setuptools
+    conda_id: conda-forge/setuptools
   - name: twine
     github_id: pypa/twine
     category: build-tools
-    conda_id: conda-forge/twine
     pypi_id: twine
+    conda_id: conda-forge/twine
   - name: scons
     github_id: SCons/scons
     category: build-tools
+    pypi_id: scons
     conda_id: conda-forge/scons
     license: MIT
-    pypi_id: scons
   - name: doit
     github_id: pydoit/doit
     category: build-tools
-    conda_id: conda-forge/doit
     pypi_id: doit
+    conda_id: conda-forge/doit
   - name: buildout
     github_id: buildout/buildout
     category: build-tools
     pypi_id: zc.buildout
+    conda_id: conda-forge/zc.buildout
   - name: paver
     github_id: paver/paver
     category: build-tools
-    conda_id: conda-forge/paver
     pypi_id: paver
+    conda_id: conda-forge/paver
   - name: wheel
     github_id: pypa/wheel
     category: build-tools
-    conda_id: conda-forge/wheel
     pypi_id: wheel
+    conda_id: conda-forge/wheel
   - name: pynt
     github_id: rags/pynt
     category: build-tools
@@ -1080,6 +1103,7 @@ projects:
     github_id: pypa/pipx
     category: dependency-managers
     pypi_id: pipx
+    conda_id: conda-forge/pipx
   - name: pip-run
     github_id: jaraco/pip-run
     category: dependency-managers
@@ -1087,15 +1111,15 @@ projects:
   - name: mkdocs
     github_id: mkdocs/mkdocs
     category: documentation
-    labels: ["mkdocs"]
-    conda_id: conda-forge/mkdocs
     pypi_id: mkdocs
+    conda_id: conda-forge/mkdocs
+    labels: ["mkdocs"]
   - name: mkdocs-material
     github_id: squidfunk/mkdocs-material
     category: documentation
-    labels: ["mkdocs"]
-    conda_id: conda-forge/mkdocs-material
     pypi_id: mkdocs-material
+    conda_id: conda-forge/mkdocs-material
+    labels: ["mkdocs"]
   - name: portray
     github_id: timothycrosley/portray
     category: documentation
@@ -1103,41 +1127,42 @@ projects:
   - name: mkdocs-pdf-export-plugin
     github_id: zhaoterryy/mkdocs-pdf-export-plugin
     category: documentation
-    labels: ["mkdocs"]
     pypi_id: mkdocs-pdf-export-plugin
+    labels: ["mkdocs"]
   - name: mkdocs-awesome-pages-plugin
     github_id: lukasgeiter/mkdocs-awesome-pages-plugin
     category: documentation
-    labels: ["mkdocs"]
     pypi_id: mkdocs-awesome-pages-plugin
+    labels: ["mkdocs"]
   - name: mkdocs-versioning
     github_id: zayd62/mkdocs-versioning
     category: documentation
-    labels: ["mkdocs"]
     pypi_id: mkdocs-versioning
+    labels: ["mkdocs"]
   - name: mkdocs-git-revision-date-plugin
     github_id: zhaoterryy/mkdocs-git-revision-date-plugin
     category: documentation
-    labels: ["mkdocs"]
     pypi_id: mkdocs-git-revision-date-plugin
+    labels: ["mkdocs"]
   - name: mkdocs-with-pdf
     github_id: orzih/mkdocs-with-pdf
     category: documentation
-    labels: ["mkdocs"]
     pypi_id: mkdocs-with-pdf
+    labels: ["mkdocs"]
   - name: mkdocs-print-site-plugin
     github_id: timvink/mkdocs-print-site-plugin
     category: documentation
-    labels: ["mkdocs"]
     pypi_id: mkdocs-print-site-plugin
+    labels: ["mkdocs"]
   - name: Nuitka
     github_id: Nuitka/Nuitka
     category: packaging
-    conda_id: conda-forge/nuitka
     pypi_id: nuitka
+    conda_id: conda-forge/nuitka
   - name: PyOxidizer
     github_id: indygreg/PyOxidizer
     category: packaging
+    pypi_id: pyoxidizer
   - name: xar
     github_id: facebookincubator/xar
     category: packaging
@@ -1152,56 +1177,53 @@ projects:
   - name: universal-build
     github_id: ml-tooling/universal-build
     category: build-tools
-    show: True
     pypi_id: universal-build
+    show: true
   - name: lazydocs
     github_id: ml-tooling/lazydocs
     category: documentation
     pypi_id: lazydocs
-    show: True
+    show: true
   - name: yala
     github_id: cemsbr/yala
     category: linters
-    labels: ["flake8", "pylint"]
     pypi_id: yala
-  # - name: docutils
-  #   conda_id: conda-forge/docutils
-  #   pypi_id: docutils
+    labels: ["flake8", "pylint"]
   - name: python-json-logger
     github_id: madzak/python-json-logger
     category: logging
-    conda_id: conda-forge/python-json-logger
     pypi_id: python-json-logger
+    conda_id: conda-forge/python-json-logger
   - name: sentry-sdk
     github_id: getsentry/sentry-python
     category: logging
-    conda_id: conda-forge/sentry-sdk
     pypi_id: sentry-sdk
+    conda_id: conda-forge/sentry-sdk
   - name: tabulate
     github_id: astanin/python-tabulate
     category: logging
-    conda_id: conda-forge/tabulate
     pypi_id: tabulate
+    conda_id: conda-forge/tabulate
   - name: colorlog
     github_id: borntyping/python-colorlog
     category: logging
-    conda_id: conda-forge/colorlog
     pypi_id: colorlog
+    conda_id: conda-forge/colorlog
   - name: packaging
     github_id: pypa/packaging
     category: packaging
-    conda_id: conda-forge/packaging
     pypi_id: packaging
+    conda_id: conda-forge/packaging
   - name: pre-commit
     github_id: pre-commit/pre-commit
     category: others
-    conda_id: conda-forge/pre-commit
     pypi_id: pre-commit
+    conda_id: conda-forge/pre-commit
   - name: progressbar2
     github_id: WoLpH/python-progressbar
     category: logging
-    conda_id: conda-forge/progressbar2
     pypi_id: progressbar2
+    conda_id: conda-forge/progressbar2
   - name: alive-progress
     github_id: rsalmei/alive-progress
     category: logging
@@ -1210,9 +1232,9 @@ projects:
   - name: tqdm
     github_id: tqdm/tqdm
     category: logging
-    license: MPL-2.0
     pypi_id: tqdm
     conda_id: conda-forge/tqdm
+    license: MPL-2.0
     dockerhub_id: tqdm/tqdm
   - name: playwright-python
     github_id: microsoft/playwright-python
@@ -1222,56 +1244,67 @@ projects:
     github_id: onelivesleft/PrettyErrors
     category: logging
     pypi_id: pretty_errors
+    conda_id: conda-forge/pretty_errors
   - name: notifiers
     github_id: liiight/notifiers
     category: logging
     pypi_id: notifiers
+    conda_id: conda-forge/notifiers
   - name: rebound
     github_id: shobrook/rebound
     category: logging
-    conda_id: conda-forge/rebound
     pypi_id: rebound
+    conda_id: conda-forge/rebound
   - name: prettytable
     github_id: jazzband/prettytable
     category: logging
-    conda_id: conda-forge/prettytable
     pypi_id: prettytable
+    conda_id: conda-forge/prettytable
   - name: python-coloredlogs
     github_id: xolox/python-coloredlogs
     category: logging
     pypi_id: coloredlogs
+    conda_id: anaconda/coloredlogs
   - name: mamba
     github_id: mamba-org/mamba
     category: dependency-managers
     conda_id: conda-forge/mamba
   - name: Bpytop
-    pypi_id: bpytop
     github_id: aristocratos/bpytop
     category: profiling
+    pypi_id: bpytop
+    conda_id: conda-forge/bpytop
+  - name: xdoctest
+    github_id: Erotemic/xdoctest
+    category: testing
+    pypi_id: xdoctest
+    conda_id: conda-forge/xdoctest
+    conda_forge: conda-forge/xdoctest
+  - name: snoop
+    github_id: alexmojaki/snoop
+    category: debugging
+    pypi_id: snoop
+    conda_id: conda-forge/snoop
+  - name: Birdseye
+    github_id: alexmojaki/birdseye
+    category: debugging
+    pypi_id: birdseye
+  - name: rich
+    github_id: Textualize/rich
+    category: logging
+    pypi_id: rich
+    conda_id: conda-forge/rich
+  - name: briefcase
+    github_id: beeware/briefcase
+    category: packaging
+    pypi_id: briefcase
+  - name: Python.org Packaging
+    homepage: https://packaging.python.org/overview/
+    resource: True
+    description: "An Overview of Packaging for Python"
+    category: packaging
   - name: unittest
     homepage: https://docs.python.org/3/library/unittest.html
     description: "Unittest is a test framework included in the Python standard library."
     resource: True
     category: testing
-  - name: xdoctest
-    pypi_id: xdoctest
-    github_id: Erotemic/xdoctest
-    conda_forge: conda-forge/xdoctest
-    category: testing
-  - name: snoop
-    pypi_id: snoop
-    github_id: alexmojaki/snoop
-    category: debugging
-  - name: Birdseye
-    pypi_id: birdseye
-    github_id: alexmojaki/birdseye
-    category: debugging
-  - name: rich
-    pypi_id: rich
-    github_id: willmcgugan/rich
-    conda_id: conda-forge/rich
-    category: logging
-  - name: briefcase
-    github_id: beeware/briefcase
-    category: packaging
-    pypi_id: briefcase
