@@ -1308,3 +1308,8 @@ projects:
     description: "Unittest is a test framework included in the Python standard library."
     resource: True
     category: testing
+  - name: pytkdocs
+    github_id: mkdocstrings/pytkdocs
+    category: documentation
+    conda_id: conda-forge/pytkdocs
+    pypi_id: pytkdocs
