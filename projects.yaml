@@ -1313,3 +1313,8 @@ projects:
     category: documentation
     conda_id: conda-forge/pytkdocs
     pypi_id: pytkdocs
+  - name: Griffe
+    github_id: mkdocstrings/griffe
+    category: documentation
+    conda_id: conda-forge/griffe
+    pypi_id: griffe
