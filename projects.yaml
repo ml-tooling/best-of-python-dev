@@ -1313,3 +1313,7 @@ projects:
     category: documentation
     conda_id: conda-forge/pytkdocs
     pypi_id: pytkdocs
+  - name: autoimport
+    github_id: lyz-code/autoimport
+    category: formatters
+    pypi_id: autoimport
