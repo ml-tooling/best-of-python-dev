@@ -1318,3 +1318,7 @@ projects:
     category: documentation
     conda_id: conda-forge/griffe
     pypi_id: griffe
+  - name: autoimport
+    github_id: lyz-code/autoimport
+    category: formatters
+    pypi_id: autoimport
