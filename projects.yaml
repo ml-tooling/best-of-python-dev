@@ -1313,6 +1313,11 @@ projects:
     category: documentation
     conda_id: conda-forge/pytkdocs
     pypi_id: pytkdocs
+  - name: PDM
+    github_id: pdm-project/pdm
+    category: dependency-managers
+    conda_id: conda-forge/pdm
+    pypi_id: pdm
   - name: Griffe
     github_id: mkdocstrings/griffe
     category: documentation
