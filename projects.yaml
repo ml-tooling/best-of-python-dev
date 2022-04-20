@@ -15,7 +15,7 @@ categories:
   - category: "virtual-envs"
     title: "Virtual Environments"
   - category: "dependency-managers"
-    title: "Dependency & Package Mangers"
+    title: "Dependency & Package Managers"
   - category: "code-metrics"
     title: "Code Metrics & Complexity"
   - category: "logging"
