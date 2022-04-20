@@ -15,7 +15,7 @@ categories:
   - category: "virtual-envs"
     title: "Virtual Environments"
   - category: "dependency-managers"
-    title: "Dependency & Package Mangers"
+    title: "Dependency & Package Managers"
   - category: "code-metrics"
     title: "Code Metrics & Complexity"
   - category: "logging"
@@ -1318,3 +1318,12 @@ projects:
     category: dependency-managers
     conda_id: conda-forge/pdm
     pypi_id: pdm
+  - name: Griffe
+    github_id: mkdocstrings/griffe
+    category: documentation
+    conda_id: conda-forge/griffe
+    pypi_id: griffe
+  - name: autoimport
+    github_id: lyz-code/autoimport
+    category: formatters
+    pypi_id: autoimport
