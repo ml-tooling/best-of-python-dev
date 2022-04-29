@@ -1108,6 +1108,11 @@ projects:
     github_id: jaraco/pip-run
     category: dependency-managers
     pypi_id: pip-run
+  - name: best-of-mkdocs
+    github_id: pawamoy/best-of-mkdocs
+    category: documentation
+    description: Collection of MkDocs projects and plugins.
+    resource: true
   - name: mkdocs
     github_id: mkdocs/mkdocs
     category: documentation
@@ -1327,3 +1332,7 @@ projects:
     github_id: lyz-code/autoimport
     category: formatters
     pypi_id: autoimport
+  - name: reloadium
+    github_id: reloadware/reloadium
+    category: debugging
+    pypi_id: reloadium
