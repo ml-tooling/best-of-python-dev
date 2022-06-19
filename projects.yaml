@@ -1336,3 +1336,23 @@ projects:
     github_id: reloadware/reloadium
     category: debugging
     pypi_id: reloadium
+  - name: nodeenv
+    github_id: ekalinin/nodeenv
+    category: virtual-envs
+    conda_id: conda-forge/nodeenv
+    pypi_id: nodeenv
+  - name: memray
+    github_id: bloomberg/memray
+    category: profiling
+    conda_id: conda-forge/memray
+    pypi_id: memray
+  - name: flake8-simplify
+    github_id: MartinThoma/flake8-simplify
+    category: linters
+    conda_id: conda-forge/flake8-simplify
+    pypi_id: flake8-simplify
+  - name: executing
+    github_id: alexmojaki/executing
+    category: ast
+    conda_id: conda-forge/executing
+    pypi_id: executing
