@@ -481,6 +481,11 @@ projects:
     github_id: python-security/pyt
     category: security
     pypi_id: python-taint
+  - name: freshenv
+    github_id: raiyanyahya/freshenv
+    category: virtual-envs
+    pypi_id: freshenv
+    conda_id: raiyanyahya/freshenv
   - name: pipenv
     github_id: pypa/pipenv
     category: virtual-envs
