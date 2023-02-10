@@ -1361,3 +1361,8 @@ projects:
     category: ast
     conda_id: conda-forge/executing
     pypi_id: executing
+  - name: hatch
+    github_id: pypa/hatch
+    category: dependency-managers
+    pypi_id: pypa/hatch
+    conda_id: conda-forge/hatch
