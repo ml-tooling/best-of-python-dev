@@ -20,6 +20,8 @@ categories:
     title: "Code Metrics & Complexity"
   - category: "logging"
     title: "Logging"
+  - category: "shell"
+    title: "Shell"    
   - category: "documentation"
     title: "Documentation"
   - category: "debugging"
@@ -1361,3 +1363,11 @@ projects:
     category: ast
     conda_id: conda-forge/executing
     pypi_id: executing
+  - name: xonsh
+    github_id: xonsh/xonsh
+    category: shell
+    pypi_id: xonsh
+  - name: xxh
+    github_id: xxh/xxh
+    category: shell
+    pypi_id: xxh-xxh
