@@ -300,6 +300,11 @@ projects:
     github_id: facebook/pyre-check
     category: type-checkers
     pypi_id: pyre-check
+  - name: typeguard
+    github_id: agronholm/typeguard
+    category: type-checkers
+    pypi_id: typeguard
+    conda_id: conda-forge/typeguard
 
   - name: python-devtools
     github_id: samuelcolvin/python-devtools
@@ -716,11 +721,6 @@ projects:
     github_id: lmacken/pyrasite
     category: debugging
     pypi_id: pyrasite
-  - name: typeguard
-    github_id: agronholm/typeguard
-    category: debugging
-    pypi_id: typeguard
-    conda_id: conda-forge/typeguard
   - name: pip
     github_id: pypa/pip
     category: dependency-managers
