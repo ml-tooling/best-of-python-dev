@@ -6,6 +6,8 @@ configuration:
 categories:
   - category: "linters"
     title: "Linters & Style Checkers"
+  - category: "type-checkers"
+    title: "Type checkers"
   - category: "formatters"
     title: "Code Formatters"
   - category: "refactoring"
@@ -180,11 +182,6 @@ projects:
     github_id: myint/pyformat
     category: formatters
     pypi_id: pyformat
-  - name: mypy
-    github_id: python/mypy
-    category: linters
-    pypi_id: mypy
-    conda_id: conda-forge/mypy
   - name: pylint
     github_id: PyCQA/pylint
     category: linters
@@ -235,19 +232,10 @@ projects:
     pypi_id: pylint-django
     conda_id: conda-forge/pylint-django
     labels: ["pylint"]
-  - name: pytype
-    github_id: google/pytype
-    category: linters
-    pypi_id: pytype
-    conda_id: conda-forge/pytype
   - name: wemake-python-styleguide
     github_id: wemake-services/wemake-python-styleguide
     category: linters
     pypi_id: wemake-python-styleguide
-  - name: pyre-check
-    github_id: facebook/pyre-check
-    category: linters
-    pypi_id: pyre-check
   - name: pep8-naming
     github_id: PyCQA/pep8-naming
     category: linters
@@ -270,11 +258,6 @@ projects:
     pypi_id: pylint-flask
     conda_id: conda-forge/pylint-flask
     labels: ["pylint"]
-  - name: pyright
-    github_id: Microsoft/pyright
-    category: linters
-    npm_id: pyright
-    license: MIT
   - name: flake8-mypy
     github_id: ambv/flake8-mypy
     category: linters
@@ -297,6 +280,32 @@ projects:
     category: linters
     pypi_id: linty-fresh
     labels: ["flake8", "mypy"]
+
+  - name: mypy
+    github_id: python/mypy
+    category: type-checkers
+    pypi_id: mypy
+    conda_id: conda-forge/mypy
+  - name: pyright
+    github_id: Microsoft/pyright
+    category: type-checkers
+    npm_id: pyright
+    license: MIT
+  - name: pytype
+    github_id: google/pytype
+    category: type-checkers
+    pypi_id: pytype
+    conda_id: conda-forge/pytype
+  - name: pyre-check
+    github_id: facebook/pyre-check
+    category: type-checkers
+    pypi_id: pyre-check
+  - name: typeguard
+    github_id: agronholm/typeguard
+    category: type-checkers
+    pypi_id: typeguard
+    conda_id: conda-forge/typeguard
+
   - name: python-devtools
     github_id: samuelcolvin/python-devtools
     category: logging
@@ -712,11 +721,6 @@ projects:
     github_id: lmacken/pyrasite
     category: debugging
     pypi_id: pyrasite
-  - name: typeguard
-    github_id: agronholm/typeguard
-    category: debugging
-    pypi_id: typeguard
-    conda_id: conda-forge/typeguard
   - name: pip
     github_id: pypa/pip
     category: dependency-managers
