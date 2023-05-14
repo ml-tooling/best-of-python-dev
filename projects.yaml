@@ -187,6 +187,11 @@ projects:
     category: linters
     pypi_id: pylint
     conda_id: conda-forge/pylint
+  - name: ruff
+    github_id: charliermarsh/ruff
+    category: linters
+    pypi_id: ruff
+    conda_id: conda-forge/ruff
   - name: flake8
     github_id: PyCQA/flake8
     category: linters
