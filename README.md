@@ -77,14 +77,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pylint-dev/pylint">pylint</a></b> (🥇44 ·  ⭐ 5.5K) - Its not just a linter that annoys you!. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/pylint-dev/pylint">pylint</a></b> (🥇44 ·  ⭐ 5.6K) - Its not just a linter that annoys you!. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/pylint-dev/pylint) (👨‍💻 610 · 🔀 1.2K · 📥 250 · 📦 480K · 📋 5.8K - 17% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/pylint-dev/pylint) (👨‍💻 610 · 🔀 1.2K · 📥 250 · 📦 480K · 📋 5.8K - 17% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/PyCQA/pylint
 	```
-- [PyPi](https://pypi.org/project/pylint) (📥 35M / month · 📦 11K · ⏱️ 09.08.2025):
+- [PyPi](https://pypi.org/project/pylint) (📥 34M / month · 📦 11K · ⏱️ 09.08.2025):
 	```
 	pip install pylint
 	```
@@ -100,18 +100,18 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/PyCQA/flake8
 	```
-- [PyPi](https://pypi.org/project/flake8) (📥 47M / month · 📦 27K · ⏱️ 20.06.2025):
+- [PyPi](https://pypi.org/project/flake8) (📥 45M / month · 📦 27K · ⏱️ 20.06.2025):
 	```
 	pip install flake8
 	```
-- [Conda](https://anaconda.org/conda-forge/flake8) (📥 9.1M · ⏱️ 26.06.2025):
+- [Conda](https://anaconda.org/conda-forge/flake8) (📥 9.2M · ⏱️ 26.06.2025):
 	```
 	conda install -c conda-forge flake8
 	```
 </details>
 <details><summary><b><a href="https://github.com/wemake-services/wemake-python-styleguide">wemake-python-styleguide</a></b> (🥇38 ·  ⭐ 2.8K) - The strictest and most opinionated python linter ever!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wemake-services/wemake-python-styleguide) (👨‍💻 210 · 🔀 410 · 📦 18K · 📋 1.2K - 1% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/wemake-services/wemake-python-styleguide) (👨‍💻 210 · 🔀 410 · 📦 18K · 📋 1.2K - 1% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/wemake-services/wemake-python-styleguide
@@ -121,14 +121,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	pip install wemake-python-styleguide
 	```
 </details>
-<details><summary><b><a href="https://github.com/PyCQA/pycodestyle">pycodestyle</a></b> (🥇36 ·  ⭐ 5.1K) - Simple Python style checker in one Python file. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PyCQA/pycodestyle">pycodestyle</a></b> (🥇35 ·  ⭐ 5.1K · 📉) - Simple Python style checker in one Python file. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/PyCQA/pycodestyle) (👨‍💻 140 · 🔀 750 · 📋 770 - 13% open · ⏱️ 12.08.2025):
 
 	```
 	git clone https://github.com/PyCQA/pycodestyle
 	```
-- [PyPi](https://pypi.org/project/pycodestyle) (📥 68M / month · 📦 2.2K · ⏱️ 20.06.2025):
+- [PyPi](https://pypi.org/project/pycodestyle) (📥 66M / month · 📦 2.2K · ⏱️ 20.06.2025):
 	```
 	pip install pycodestyle
 	```
@@ -137,30 +137,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge pycodestyle
 	```
 </details>
-<details><summary><b><a href="https://github.com/PyCQA/pyflakes">pyflakes</a></b> (🥇36 ·  ⭐ 1.4K) - A simple program which checks Python source files for errors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/beartype/beartype">beartype</a></b> (🥇35 ·  ⭐ 3.2K) - Unbearably fast near-real-time hybrid runtime-static type-checking in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PyCQA/pyflakes) (👨‍💻 88 · 🔀 180 · 📦 330K · 📋 550 - 10% open · ⏱️ 20.06.2025):
-
-	```
-	git clone https://github.com/PyCQA/pyflakes
-	```
-- [PyPi](https://pypi.org/project/pyflakes) (📥 53M / month · 📦 1.3K · ⏱️ 20.06.2025):
-	```
-	pip install pyflakes
-	```
-- [Conda](https://anaconda.org/conda-forge/pyflakes) (📥 9M · ⏱️ 21.06.2025):
-	```
-	conda install -c conda-forge pyflakes
-	```
-</details>
-<details><summary><b><a href="https://github.com/beartype/beartype">beartype</a></b> (🥈35 ·  ⭐ 3.2K) - Unbearably fast near-real-time hybrid runtime-static type-checking in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/beartype/beartype) (👨‍💻 26 · 🔀 63 · 📦 7.6K · 📋 420 - 23% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/beartype/beartype) (👨‍💻 26 · 🔀 63 · 📦 7.6K · 📋 420 - 23% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/beartype/beartype
 	```
-- [PyPi](https://pypi.org/project/beartype) (📥 6.4M / month · 📦 710 · ⏱️ 22.05.2025):
+- [PyPi](https://pypi.org/project/beartype) (📥 6M / month · 📦 710 · ⏱️ 22.05.2025):
 	```
 	pip install beartype
 	```
@@ -169,7 +153,23 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge beartype
 	```
 </details>
-<details><summary><b><a href="https://github.com/davidhalter/parso">parso</a></b> (🥈35 ·  ⭐ 650) - A Python Parser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PyCQA/pyflakes">pyflakes</a></b> (🥇35 ·  ⭐ 1.4K) - A simple program which checks Python source files for errors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/PyCQA/pyflakes) (👨‍💻 88 · 🔀 180 · 📦 330K · 📋 550 - 10% open · ⏱️ 20.06.2025):
+
+	```
+	git clone https://github.com/PyCQA/pyflakes
+	```
+- [PyPi](https://pypi.org/project/pyflakes) (📥 50M / month · 📦 1.3K · ⏱️ 20.06.2025):
+	```
+	pip install pyflakes
+	```
+- [Conda](https://anaconda.org/conda-forge/pyflakes) (📥 9.1M · ⏱️ 21.06.2025):
+	```
+	conda install -c conda-forge pyflakes
+	```
+</details>
+<details><summary><b><a href="https://github.com/davidhalter/parso">parso</a></b> (🥇35 ·  ⭐ 650) - A Python Parser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/davidhalter/parso) (👨‍💻 51 · 🔀 110 · 📦 580K · 📋 120 - 10% open · ⏱️ 23.08.2025):
 
@@ -180,7 +180,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install parso
 	```
-- [Conda](https://anaconda.org/conda-forge/parso) (📥 30M · ⏱️ 23.08.2025):
+- [Conda](https://anaconda.org/conda-forge/parso) (📥 31M · ⏱️ 23.08.2025):
 	```
 	conda install -c conda-forge parso
 	```
@@ -192,11 +192,11 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/charliermarsh/ruff
 	```
-- [PyPi](https://pypi.org/project/ruff) (📥 77M / month · 📦 18K · ⏱️ 28.08.2025):
+- [PyPi](https://pypi.org/project/ruff) (📥 79M / month · 📦 18K · ⏱️ 28.08.2025):
 	```
 	pip install ruff
 	```
-- [Conda](https://anaconda.org/conda-forge/ruff) (📥 4.5M · ⏱️ 22.08.2025):
+- [Conda](https://anaconda.org/conda-forge/ruff) (📥 4.6M · ⏱️ 28.08.2025):
 	```
 	conda install -c conda-forge ruff
 	```
@@ -208,7 +208,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/PyCQA/flake8-bugbear
 	```
-- [PyPi](https://pypi.org/project/flake8-bugbear) (📥 3.2M / month · 📦 1.2K · ⏱️ 12.12.2024):
+- [PyPi](https://pypi.org/project/flake8-bugbear) (📥 2.9M / month · 📦 1.2K · ⏱️ 12.12.2024):
 	```
 	pip install flake8-bugbear
 	```
@@ -228,7 +228,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install pylint-django
 	```
-- [Conda](https://anaconda.org/conda-forge/pylint-django) (📥 280K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/pylint-django) (📥 290K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge pylint-django
 	```
@@ -251,12 +251,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/gforcada/flake8-isort">flake8-isort</a></b> (🥈28 ·  ⭐ 180) - flake8 plugin that integrates isort. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/gforcada/flake8-isort) (👨‍💻 40 · 🔀 190 · 📦 28K · 📋 58 - 1% open · ⏱️ 17.08.2025):
+- [GitHub](https://github.com/gforcada/flake8-isort) (👨‍💻 40 · 🔀 180 · 📦 28K · 📋 58 - 1% open · ⏱️ 17.08.2025):
 
 	```
 	git clone https://github.com/gforcada/flake8-isort
 	```
-- [PyPi](https://pypi.org/project/flake8-isort) (📥 1.4M / month · 📦 580 · ⏱️ 29.01.2025):
+- [PyPi](https://pypi.org/project/flake8-isort) (📥 1.5M / month · 📦 580 · ⏱️ 29.01.2025):
 	```
 	pip install flake8-isort
 	```
@@ -272,7 +272,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/gforcada/flake8-builtins
 	```
-- [PyPi](https://pypi.org/project/flake8-builtins) (📥 960K / month · 📦 560 · ⏱️ 17.08.2025):
+- [PyPi](https://pypi.org/project/flake8-builtins) (📥 910K / month · 📦 560 · ⏱️ 17.08.2025):
 	```
 	pip install flake8-builtins
 	```
@@ -288,7 +288,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/PyCQA/flake8-import-order
 	```
-- [PyPi](https://pypi.org/project/flake8-import-order) (📥 960K / month · 📦 650 · ⏱️ 24.06.2025):
+- [PyPi](https://pypi.org/project/flake8-import-order) (📥 950K / month · 📦 650 · ⏱️ 24.06.2025):
 	```
 	pip install flake8-import-order
 	```
@@ -316,7 +316,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/wemake-services/flake8-eradicate
 	```
-- [PyPi](https://pypi.org/project/flake8-eradicate) (📥 770K / month · 📦 170 · ⏱️ 31.05.2023):
+- [PyPi](https://pypi.org/project/flake8-eradicate) (📥 750K / month · 📦 170 · ⏱️ 31.05.2023):
 	```
 	pip install flake8-eradicate
 	```
@@ -332,7 +332,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/mgedmin/check-manifest
 	```
-- [PyPi](https://pypi.org/project/check-manifest) (📥 770K / month · 📦 4.6K · ⏱️ 09.10.2024):
+- [PyPi](https://pypi.org/project/check-manifest) (📥 720K / month · 📦 4.6K · ⏱️ 09.10.2024):
 	```
 	pip install check-manifest
 	```
@@ -348,35 +348,35 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/dropbox/mypy-protobuf
 	```
-- [PyPi](https://pypi.org/project/mypy-protobuf) (📥 6.6M / month · 📦 190 · ⏱️ 01.04.2024):
+- [PyPi](https://pypi.org/project/mypy-protobuf) (📥 6.5M / month · 📦 190 · ⏱️ 01.04.2024):
 	```
 	pip install mypy-protobuf
 	```
-- [Conda](https://anaconda.org/conda-forge/mypy-protobuf) (📥 160K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/mypy-protobuf) (📥 170K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge mypy-protobuf
 	```
 </details>
 <details><summary><b><a href="https://github.com/andreoliwa/nitpick">nitpick</a></b> (🥉25 ·  ⭐ 400) - Enforce the same settings on multiple projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/andreoliwa/nitpick) (👨‍💻 16 · 🔀 25 · 📥 12 · 📦 1.4K · 📋 130 - 38% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/andreoliwa/nitpick) (👨‍💻 16 · 🔀 25 · 📥 12 · 📦 1.4K · 📋 130 - 38% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/andreoliwa/nitpick
 	```
-- [PyPi](https://pypi.org/project/nitpick) (📥 16K / month · 📦 26 · ⏱️ 31.12.2023):
+- [PyPi](https://pypi.org/project/nitpick) (📥 14K / month · 📦 26 · ⏱️ 31.12.2023):
 	```
 	pip install nitpick
 	```
 </details>
-<details><summary><b><a href="https://github.com/peterjc/flake8-black">flake8-black</a></b> (🥉25 ·  ⭐ 170) - flake8 plugin to run black for checking Python coding style. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/peterjc/flake8-black">flake8-black</a></b> (🥉24 ·  ⭐ 170) - flake8 plugin to run black for checking Python coding style. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/peterjc/flake8-black) (👨‍💻 10 · 🔀 11 · 📦 8.6K · 📋 29 - 10% open · ⏱️ 08.07.2025):
+- [GitHub](https://github.com/peterjc/flake8-black) (👨‍💻 10 · 🔀 11 · 📦 8.6K · 📋 29 - 10% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/peterjc/flake8-black
 	```
-- [PyPi](https://pypi.org/project/flake8-black) (📥 700K / month · 📦 490 · ⏱️ 20.12.2022):
+- [PyPi](https://pypi.org/project/flake8-black) (📥 660K / month · 📦 490 · ⏱️ 20.12.2022):
 	```
 	pip install flake8-black
 	```
@@ -385,14 +385,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge flake8-black
 	```
 </details>
-<details><summary><b><a href="https://github.com/MartinThoma/flake8-simplify">flake8-simplify</a></b> (🥉22 ·  ⭐ 200) - A flake8 plugin that helps you to simplify code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MartinThoma/flake8-simplify">flake8-simplify</a></b> (🥉23 ·  ⭐ 200) - A flake8 plugin that helps you to simplify code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/MartinThoma/flake8-simplify) (👨‍💻 16 · 🔀 22 · 📋 130 - 43% open · ⏱️ 01.06.2025):
 
 	```
 	git clone https://github.com/MartinThoma/flake8-simplify
 	```
-- [PyPi](https://pypi.org/project/flake8-simplify) (📥 330K / month · 📦 110 · ⏱️ 01.06.2025):
+- [PyPi](https://pypi.org/project/flake8-simplify) (📥 300K / month · 📦 110 · ⏱️ 01.06.2025):
 	```
 	pip install flake8-simplify
 	```
@@ -410,8 +410,8 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 - <b><a href="https://github.com/zheller/flake8-quotes">flake8-quotes</a></b> (🥉27 ·  ⭐ 180 · 💀) - Flake8 extension for checking quotes in python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/klen/pylama">pylama</a></b> (🥉26 ·  ⭐ 1.1K · 💀) - Code audit tool for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/PyCQA/flake8-commas">flake8-commas</a></b> (🥉25 ·  ⭐ 130 · 💀) - Flake8 extension for enforcing trailing commas in python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Instagram/Fixit">Fixit</a></b> (🥉24 ·  ⭐ 680) - Advanced Python linting framework with auto-fixes and hierarchical.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/wearepal/data-science-types">data-science-types</a></b> (🥉24 ·  ⭐ 200 · 💀) - Mypy stubs, i.e., type information, for numpy, pandas.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Instagram/Fixit">Fixit</a></b> (🥉23 ·  ⭐ 690) - Advanced Python linting framework with auto-fixes and hierarchical.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/deppen8/pandas-vet">pandas-vet</a></b> (🥉21 ·  ⭐ 170 · 💀) - A plugin for Flake8 that checks pandas code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tylerwince/flake8-bandit">flake8-bandit</a></b> (🥉21 ·  ⭐ 110 · 💀) - Automated security testing using bandit and flake8. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/life4/flakehell">flakehell</a></b> (🥉19 ·  ⭐ 230 · 💀) - Flake8 wrapper to make it nice, legacy-friendly, configurable. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.iconscout.com/icon/free/png-256/8-eight-digital-number-numerical-numbers-36025.png" style="display:inline;" width="13" height="13"></code>
@@ -431,40 +431,40 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/python/mypy">mypy</a></b> (🥇49 ·  ⭐ 20K) - Optional static typing for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/python/mypy) (👨‍💻 810 · 🔀 3K · 📦 320K · 📋 12K - 25% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/python/mypy) (👨‍💻 810 · 🔀 3K · 📦 320K · 📋 12K - 25% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/python/mypy
 	```
-- [PyPi](https://pypi.org/project/mypy) (📥 68M / month · 📦 26K · ⏱️ 31.07.2025):
+- [PyPi](https://pypi.org/project/mypy) (📥 66M / month · 📦 26K · ⏱️ 31.07.2025):
 	```
 	pip install mypy
 	```
-- [Conda](https://anaconda.org/conda-forge/mypy) (📥 5.8M · ⏱️ 27.08.2025):
+- [Conda](https://anaconda.org/conda-forge/mypy) (📥 5.9M · ⏱️ 02.09.2025):
 	```
 	conda install -c conda-forge mypy
 	```
 </details>
 <details><summary><b><a href="https://github.com/microsoft/pyright">pyright</a></b> (🥈39 ·  ⭐ 15K) - Static Type Checker for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/microsoft/pyright) (👨‍💻 120 · 🔀 1.7K · 📥 5.3K · 📦 1.4K · 📋 7.2K - 1% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/microsoft/pyright) (👨‍💻 130 · 🔀 1.7K · 📥 5.4K · 📦 1.4K · 📋 7.2K - 1% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/Microsoft/pyright
 	```
-- [npm](https://www.npmjs.com/package/pyright) (📥 1.6M / month · 📦 29 · ⏱️ 20.08.2025):
+- [npm](https://www.npmjs.com/package/pyright) (📥 1.6M / month · 📦 31 · ⏱️ 02.09.2025):
 	```
 	npm install pyright
 	```
 </details>
 <details><summary><b><a href="https://github.com/facebook/pyre-check">pyre-check</a></b> (🥉33 ·  ⭐ 7.1K) - Performant type-checking for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/facebook/pyre-check) (👨‍💻 290 · 🔀 450 · 📦 21 · 📋 460 - 32% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/facebook/pyre-check) (👨‍💻 290 · 🔀 450 · 📦 21 · 📋 460 - 32% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/facebook/pyre-check
 	```
-- [PyPi](https://pypi.org/project/pyre-check) (📥 170K / month · 📦 87 · ⏱️ 07.07.2025):
+- [PyPi](https://pypi.org/project/pyre-check) (📥 150K / month · 📦 87 · ⏱️ 07.07.2025):
 	```
 	pip install pyre-check
 	```
@@ -476,7 +476,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/google/pytype
 	```
-- [PyPi](https://pypi.org/project/pytype) (📥 430K / month · 📦 230 · ⏱️ 11.10.2024):
+- [PyPi](https://pypi.org/project/pytype) (📥 400K / month · 📦 230 · ⏱️ 11.10.2024):
 	```
 	pip install pytype
 	```
@@ -487,7 +487,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/agronholm/typeguard">typeguard</a></b> (🥉33 ·  ⭐ 1.7K) - Run-time type checker for Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/agronholm/typeguard">typeguard</a></b> (🥉32 ·  ⭐ 1.7K) - Run-time type checker for Python. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -497,12 +497,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/psf/black">black</a></b> (🥇44 ·  ⭐ 41K) - The uncompromising Python code formatter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/psf/black) (👨‍💻 470 · 🔀 2.6K · 📥 130K · 📦 640K · 📋 2.8K - 13% open · ⏱️ 19.08.2025):
+- [GitHub](https://github.com/psf/black) (👨‍💻 470 · 🔀 2.6K · 📥 130K · 📦 640K · 📋 2.8K - 13% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/psf/black
 	```
-- [PyPi](https://pypi.org/project/black) (📥 78M / month · 📦 37K · ⏱️ 29.01.2025):
+- [PyPi](https://pypi.org/project/black) (📥 76M / month · 📦 37K · ⏱️ 29.01.2025):
 	```
 	pip install black
 	```
@@ -513,32 +513,32 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/PyCQA/isort">isort</a></b> (🥈40 ·  ⭐ 6.8K) - A Python utility / library to sort imports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PyCQA/isort) (👨‍💻 320 · 🔀 600 · 📦 560K · 📋 1.3K - 17% open · ⏱️ 19.06.2025):
+- [GitHub](https://github.com/PyCQA/isort) (👨‍💻 320 · 🔀 600 · 📦 560K · 📋 1.3K - 17% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/PyCQA/isort
 	```
-- [PyPi](https://pypi.org/project/isort) (📥 69M / month · 📦 15K · ⏱️ 26.02.2025):
+- [PyPi](https://pypi.org/project/isort) (📥 66M / month · 📦 15K · ⏱️ 26.02.2025):
 	```
 	pip install isort
 	```
-- [Conda](https://anaconda.org/conda-forge/isort) (📥 7.8M · ⏱️ 02.05.2025):
+- [Conda](https://anaconda.org/conda-forge/isort) (📥 7.9M · ⏱️ 02.05.2025):
 	```
 	conda install -c conda-forge isort
 	```
 </details>
-<details><summary><b><a href="https://github.com/google/yapf">yapf</a></b> (🥈39 ·  ⭐ 14K) - A formatter for Python files. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google/yapf">yapf</a></b> (🥈39 ·  ⭐ 14K · 💤) - A formatter for Python files. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/google/yapf) (👨‍💻 160 · 🔀 900 · 📦 110K · 📋 880 - 47% open · ⏱️ 10.02.2025):
 
 	```
 	git clone https://github.com/google/yapf
 	```
-- [PyPi](https://pypi.org/project/yapf) (📥 9.8M / month · 📦 1.3K · ⏱️ 14.11.2024):
+- [PyPi](https://pypi.org/project/yapf) (📥 9.2M / month · 📦 1.3K · ⏱️ 14.11.2024):
 	```
 	pip install yapf
 	```
-- [Conda](https://anaconda.org/conda-forge/yapf) (📥 2.4M · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/yapf) (📥 2.5M · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge yapf
 	```
@@ -550,7 +550,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/hhatto/autopep8
 	```
-- [PyPi](https://pypi.org/project/autopep8) (📥 7M / month · 📦 1.7K · ⏱️ 14.01.2025):
+- [PyPi](https://pypi.org/project/autopep8) (📥 6.9M / month · 📦 1.7K · ⏱️ 14.01.2025):
 	```
 	pip install autopep8
 	```
@@ -566,7 +566,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/myint/docformatter
 	```
-- [PyPi](https://pypi.org/project/docformatter) (📥 1.3M / month · 📦 300 · ⏱️ 11.05.2025):
+- [PyPi](https://pypi.org/project/docformatter) (📥 1.2M / month · 📦 300 · ⏱️ 11.05.2025):
 	```
 	pip install docformatter
 	```
@@ -582,7 +582,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/lyz-code/autoimport
 	```
-- [PyPi](https://pypi.org/project/autoimport) (📥 18K / month · 📦 14 · ⏱️ 01.10.2024):
+- [PyPi](https://pypi.org/project/autoimport) (📥 17K / month · 📦 14 · ⏱️ 01.10.2024):
 	```
 	pip install autoimport
 	```
@@ -597,14 +597,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/davidhalter/jedi">jedi</a></b> (🥇41 ·  ⭐ 6K) - Awesome autocompletion, static analysis and refactoring library for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/davidhalter/jedi">jedi</a></b> (🥇42 ·  ⭐ 6K · 📈) - Awesome autocompletion, static analysis and refactoring library for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/davidhalter/jedi) (👨‍💻 180 · 🔀 520 · 📦 580K · 📋 1.4K - 5% open · ⏱️ 24.06.2025):
+- [GitHub](https://github.com/davidhalter/jedi) (👨‍💻 180 · 🔀 520 · 📦 580K · 📋 1.4K - 5% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/davidhalter/jedi
 	```
-- [PyPi](https://pypi.org/project/jedi) (📥 76M / month · 📦 1.2K · ⏱️ 11.11.2024):
+- [PyPi](https://pypi.org/project/jedi) (📥 74M / month · 📦 1.2K · ⏱️ 11.11.2024):
 	```
 	pip install jedi
 	```
@@ -615,7 +615,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/python-rope/rope">rope</a></b> (🥇36 ·  ⭐ 2.1K) - a python refactoring library. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/python-rope/rope) (👨‍💻 82 · 🔀 170 · 📥 42 · 📦 79K · 📋 380 - 30% open · ⏱️ 12.07.2025):
+- [GitHub](https://github.com/python-rope/rope) (👨‍💻 83 · 🔀 170 · 📥 42 · 📦 79K · 📋 380 - 30% open · ⏱️ 12.07.2025):
 
 	```
 	git clone https://github.com/python-rope/rope
@@ -636,11 +636,11 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/asottile/pyupgrade
 	```
-- [PyPi](https://pypi.org/project/pyupgrade) (📥 1.1M / month · 📦 520 · ⏱️ 23.05.2025):
+- [PyPi](https://pypi.org/project/pyupgrade) (📥 1M / month · 📦 520 · ⏱️ 23.05.2025):
 	```
 	pip install pyupgrade
 	```
-- [Conda](https://anaconda.org/conda-forge/pyupgrade) (📥 850K · ⏱️ 24.05.2025):
+- [Conda](https://anaconda.org/conda-forge/pyupgrade) (📥 860K · ⏱️ 24.05.2025):
 	```
 	conda install -c conda-forge pyupgrade
 	```
@@ -652,7 +652,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/jendrikseipp/vulture
 	```
-- [PyPi](https://pypi.org/project/vulture) (📥 2.2M / month · 📦 200 · ⏱️ 08.12.2024):
+- [PyPi](https://pypi.org/project/vulture) (📥 2.3M / month · 📦 200 · ⏱️ 08.12.2024):
 	```
 	pip install vulture
 	```
@@ -668,7 +668,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/myint/autoflake
 	```
-- [PyPi](https://pypi.org/project/autoflake) (📥 3.9M / month · 📦 1K · ⏱️ 13.03.2024):
+- [PyPi](https://pypi.org/project/autoflake) (📥 3.8M / month · 📦 1K · ⏱️ 13.03.2024):
 	```
 	pip install autoflake
 	```
@@ -677,23 +677,23 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge autoflake
 	```
 </details>
-<details><summary><b><a href="https://github.com/Instagram/MonkeyType">MonkeyType</a></b> (🥈26 ·  ⭐ 4.9K) - A Python library that generates static type annotations by.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Instagram/MonkeyType">MonkeyType</a></b> (🥈25 ·  ⭐ 4.9K) - A Python library that generates static type annotations by.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/Instagram/MonkeyType) (👨‍💻 51 · 🔀 180 · 📋 200 - 30% open · ⏱️ 14.06.2025):
 
 	```
 	git clone https://github.com/Instagram/MonkeyType
 	```
-- [PyPi](https://pypi.org/project/monkeytype) (📥 190K / month · 📦 23 · ⏱️ 20.03.2023):
+- [PyPi](https://pypi.org/project/monkeytype) (📥 180K / month · 📦 23 · ⏱️ 20.03.2023):
 	```
 	pip install monkeytype
 	```
-- [Conda](https://anaconda.org/conda-forge/monkeytype) (📥 90K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/monkeytype) (📥 91K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge monkeytype
 	```
 </details>
-<details><summary><b><a href="https://github.com/asottile/add-trailing-comma">add-trailing-comma</a></b> (🥉24 ·  ⭐ 360) - A tool (and pre-commit hook) to automatically add trailing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/asottile/add-trailing-comma">add-trailing-comma</a></b> (🥉23 ·  ⭐ 370) - A tool (and pre-commit hook) to automatically add trailing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/asottile/add-trailing-comma) (👨‍💻 11 · 🔀 29 · ⏱️ 13.08.2025):
 
@@ -724,7 +724,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/ilevkivskyi/com2ann
 	```
-- [PyPi](https://pypi.org/project/com2ann) (📥 33K / month · 📦 2 · ⏱️ 21.08.2021):
+- [PyPi](https://pypi.org/project/com2ann) (📥 26K / month · 📦 2 · ⏱️ 21.08.2021):
 	```
 	pip install com2ann
 	```
@@ -749,12 +749,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/PyCQA/bandit">bandit</a></b> (🥇38 ·  ⭐ 7.3K) - Bandit is a tool designed to find common security issues in Python.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/PyCQA/bandit) (👨‍💻 190 · 🔀 680 · 📥 880 · 📦 58K · 📋 710 - 28% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/PyCQA/bandit) (👨‍💻 190 · 🔀 680 · 📥 880 · 📦 59K · 📋 710 - 28% open · ⏱️ 25.08.2025):
 
 	```
 	git clone https://github.com/PyCQA/bandit
 	```
-- [PyPi](https://pypi.org/project/bandit) (📥 9.6M / month · 📦 1.8K · ⏱️ 06.07.2025):
+- [PyPi](https://pypi.org/project/bandit) (📥 9.5M / month · 📦 1.8K · ⏱️ 06.07.2025):
 	```
 	pip install bandit
 	```
@@ -765,28 +765,28 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pyupio/safety">safety</a></b> (🥈36 ·  ⭐ 1.9K) - Safety checks Python dependencies for known security vulnerabilities and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pyupio/safety) (👨‍💻 52 · 🔀 160 · 📥 860K · 📦 18K · 📋 250 - 12% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/pyupio/safety) (👨‍💻 53 · 🔀 170 · 📥 870K · 📦 18K · 📋 260 - 13% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/pyupio/safety
 	```
-- [PyPi](https://pypi.org/project/safety) (📥 3.8M / month · 📦 730 · ⏱️ 25.08.2025):
+- [PyPi](https://pypi.org/project/safety) (📥 3.8M / month · 📦 760 · ⏱️ 01.09.2025):
 	```
 	pip install safety
 	```
-- [Conda](https://anaconda.org/conda-forge/safety) (📥 140K · ⏱️ 10.07.2025):
+- [Conda](https://anaconda.org/conda-forge/safety) (📥 140K · ⏱️ 02.09.2025):
 	```
 	conda install -c conda-forge safety
 	```
 </details>
-<details><summary><b><a href="https://github.com/sqlmapproject/sqlmap">sqlmap</a></b> (🥈34 ·  ⭐ 35K) - Automatic SQL injection and database takeover tool. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/sqlmapproject/sqlmap">sqlmap</a></b> (🥈35 ·  ⭐ 35K · 📈) - Automatic SQL injection and database takeover tool. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/sqlmapproject/sqlmap) (👨‍💻 150 · 🔀 6K · 📦 21 · 📋 5.4K - 1% open · ⏱️ 24.08.2025):
+- [GitHub](https://github.com/sqlmapproject/sqlmap) (👨‍💻 150 · 🔀 6K · 📦 21 · 📋 5.4K - 1% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/sqlmapproject/sqlmap
 	```
-- [PyPi](https://pypi.org/project/sqlmap) (📥 14K / month · 📦 12 · ⏱️ 05.08.2025):
+- [PyPi](https://pypi.org/project/sqlmap) (📥 13K / month · 📦 12 · ⏱️ 01.09.2025):
 	```
 	pip install sqlmap
 	```
@@ -810,7 +810,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/dlint-py/dlint
 	```
-- [PyPi](https://pypi.org/project/dlint) (📥 100K / month · 📦 93 · ⏱️ 31.10.2024):
+- [PyPi](https://pypi.org/project/dlint) (📥 90K / month · 📦 93 · ⏱️ 31.10.2024):
 	```
 	pip install dlint
 	```
@@ -838,7 +838,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pypa/pipenv
 	```
-- [PyPi](https://pypi.org/project/pipenv) (📥 26M / month · 📦 250 · ⏱️ 07.07.2025):
+- [PyPi](https://pypi.org/project/pipenv) (📥 28M / month · 📦 250 · ⏱️ 07.07.2025):
 	```
 	pip install pipenv
 	```
@@ -849,12 +849,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pypa/virtualenv">virtualenv</a></b> (🥈44 ·  ⭐ 5K) - Virtual Python Environment builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pypa/virtualenv) (👨‍💻 300 · 🔀 1.1K · 📦 490K · 📋 1.4K - 1% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/pypa/virtualenv) (👨‍💻 300 · 🔀 1.1K · 📦 490K · 📋 1.4K - 1% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pypa/virtualenv
 	```
-- [PyPi](https://pypi.org/project/virtualenv) (📥 260M / month · 📦 1.9K · ⏱️ 13.08.2025):
+- [PyPi](https://pypi.org/project/virtualenv) (📥 250M / month · 📦 1.9K · ⏱️ 13.08.2025):
 	```
 	pip install virtualenv
 	```
@@ -865,30 +865,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pyenv/pyenv">pyenv</a></b> (🥈34 ·  ⭐ 43K) - Simple Python version management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pyenv/pyenv) (👨‍💻 460 · 🔀 3.2K · 📦 21 · 📋 1.9K - 4% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/pyenv/pyenv) (👨‍💻 460 · 🔀 3.2K · 📦 21 · 📋 1.9K - 4% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/pyenv/pyenv
 	```
-- [PyPi](https://pypi.org/project/pyenv) (📥 11K / month · ⏱️ 12.01.2019):
+- [PyPi](https://pypi.org/project/pyenv) (📥 10K / month · ⏱️ 12.01.2019):
 	```
 	pip install pyenv
-	```
-</details>
-<details><summary><b><a href="https://github.com/ekalinin/nodeenv">nodeenv</a></b> (🥈34 ·  ⭐ 1.7K · 💤) - Virtual environment for Node.js & integrator with virtualenv. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/ekalinin/nodeenv) (👨‍💻 100 · 🔀 220 · 📦 120K · 📋 210 - 30% open · ⏱️ 25.08.2024):
-
-	```
-	git clone https://github.com/ekalinin/nodeenv
-	```
-- [PyPi](https://pypi.org/project/nodeenv) (📥 68M / month · 📦 250 · ⏱️ 04.06.2024):
-	```
-	pip install nodeenv
-	```
-- [Conda](https://anaconda.org/conda-forge/nodeenv) (📥 6.6M · ⏱️ 22.04.2025):
-	```
-	conda install -c conda-forge nodeenv
 	```
 </details>
 <details><summary><b><a href="https://github.com/pyenv/pyenv-virtualenv">pyenv-virtualenv</a></b> (🥉21 ·  ⭐ 6.6K) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -907,8 +891,9 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	git clone https://github.com/pyenv/pyenv-installer
 	```
 </details>
-<details><summary>Show 4 hidden projects...</summary>
+<details><summary>Show 5 hidden projects...</summary>
 
+- <b><a href="https://github.com/ekalinin/nodeenv">nodeenv</a></b> (🥈34 ·  ⭐ 1.7K · 💀) - Virtual environment for Node.js & integrator with virtualenv. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/sashahart/vex">vex</a></b> (🥉18 ·  ⭐ 370 · 💀) - Run a command in the named virtualenv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/spotify/dh-virtualenv">dh-virtualenv</a></b> (🥉16 ·  ⭐ 1.6K · 💀) - Python virtualenvs in Debian packages. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
 - <b><a href="https://github.com/gtalarico/pipenv-pipes">pipenv-pipes</a></b> (🥉13 ·  ⭐ 130 · 💀) - A PipEnv Environment Switcher. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -922,12 +907,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/pypa/pip">pip</a></b> (🥇47 ·  ⭐ 9.9K) - The Python package installer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pypa/pip) (👨‍💻 840 · 🔀 3.1K · 📦 240K · 📋 7.7K - 14% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/pypa/pip) (👨‍💻 840 · 🔀 3.1K · 📦 240K · 📋 7.7K - 14% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pypa/pip
 	```
-- [PyPi](https://pypi.org/project/pip) (📥 450M / month · 📦 5.3K · ⏱️ 30.07.2025):
+- [PyPi](https://pypi.org/project/pip) (📥 420M / month · 📦 5.3K · ⏱️ 30.07.2025):
 	```
 	pip install pip
 	```
@@ -938,12 +923,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/conda/conda">conda</a></b> (🥇43 ·  ⭐ 7.1K) - A system-level, binary package and environment manager running on all.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/conda/conda) (👨‍💻 470 · 🔀 1.9K · 📥 28K · 📦 52K · 📋 10K - 6% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/conda/conda) (👨‍💻 470 · 🔀 1.9K · 📥 29K · 📦 52K · 📋 10K - 6% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/conda/conda
 	```
-- [PyPi](https://pypi.org/project/conda) (📥 14K / month · 📦 83 · ⏱️ 22.04.2017):
+- [PyPi](https://pypi.org/project/conda) (📥 10K / month · 📦 83 · ⏱️ 22.04.2017):
 	```
 	pip install conda
 	```
@@ -954,16 +939,16 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/python-poetry/poetry">poetry</a></b> (🥈40 ·  ⭐ 34K) - Python packaging and dependency management made easy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/python-poetry/poetry) (👨‍💻 610 · 🔀 2.4K · 📥 16M · 📋 6.3K - 9% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/python-poetry/poetry) (👨‍💻 610 · 🔀 2.4K · 📥 16M · 📋 6.3K - 9% open · ⏱️ 30.08.2025):
 
 	```
 	git clone https://github.com/python-poetry/poetry
 	```
-- [PyPi](https://pypi.org/project/poetry) (📥 70M / month · 📦 850 · ⏱️ 05.08.2025):
+- [PyPi](https://pypi.org/project/poetry) (📥 67M / month · 📦 850 · ⏱️ 05.08.2025):
 	```
 	pip install poetry
 	```
-- [Conda](https://anaconda.org/conda-forge/poetry) (📥 4.9M · ⏱️ 05.08.2025):
+- [Conda](https://anaconda.org/conda-forge/poetry) (📥 5.4M · ⏱️ 05.08.2025):
 	```
 	conda install -c conda-forge poetry
 	```
@@ -975,7 +960,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/jazzband/pip-tools
 	```
-- [PyPi](https://pypi.org/project/pip-tools) (📥 19M / month · 📦 2.7K · ⏱️ 31.07.2025):
+- [PyPi](https://pypi.org/project/pip-tools) (📥 18M / month · 📦 2.7K · ⏱️ 31.07.2025):
 	```
 	pip install pip-tools
 	```
@@ -986,12 +971,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pdm-project/pdm">PDM</a></b> (🥈38 ·  ⭐ 8.5K) - A modern Python package and dependency manager supporting the latest PEP.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pdm-project/pdm) (👨‍💻 230 · 🔀 450 · 📥 710 · 📦 510 · 📋 1.9K - 2% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/pdm-project/pdm) (👨‍💻 230 · 🔀 450 · 📥 720 · 📦 510 · 📋 1.9K - 2% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pdm-project/pdm
 	```
-- [PyPi](https://pypi.org/project/pdm) (📥 6.7M / month · 📦 200 · ⏱️ 22.08.2025):
+- [PyPi](https://pypi.org/project/pdm) (📥 7M / month · 📦 200 · ⏱️ 22.08.2025):
 	```
 	pip install pdm
 	```
@@ -1002,12 +987,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pypa/pipx">pipx</a></b> (🥉34 ·  ⭐ 12K) - Install and Run Python Applications in Isolated Environments. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pypa/pipx) (👨‍💻 160 · 🔀 470 · 📥 560K · 📦 4.5K · 📋 850 - 16% open · ⏱️ 10.08.2025):
+- [GitHub](https://github.com/pypa/pipx) (👨‍💻 160 · 🔀 470 · 📥 570K · 📦 4.5K · 📋 850 - 16% open · ⏱️ 10.08.2025):
 
 	```
 	git clone https://github.com/pypa/pipx
 	```
-- [PyPi](https://pypi.org/project/pipx) (📥 10M / month · 📦 58 · ⏱️ 23.08.2024):
+- [PyPi](https://pypi.org/project/pipx) (📥 11M / month · 📦 58 · ⏱️ 23.08.2024):
 	```
 	pip install pipx
 	```
@@ -1016,9 +1001,9 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge pipx
 	```
 </details>
-<details><summary><b><a href="https://github.com/mamba-org/mamba">mamba</a></b> (🥉31 ·  ⭐ 7.6K) - The Fast Cross-Platform Package Manager. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/mamba-org/mamba">mamba</a></b> (🥉30 ·  ⭐ 7.6K) - The Fast Cross-Platform Package Manager. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/mamba-org/mamba) (👨‍💻 170 · 🔀 400 · 📋 2K - 22% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/mamba-org/mamba) (👨‍💻 180 · 🔀 410 · 📋 2K - 22% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/mamba-org/mamba
@@ -1028,7 +1013,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge mamba
 	```
 </details>
-<details><summary><b><a href="https://github.com/bndr/pipreqs">pipreqs</a></b> (🥉31 ·  ⭐ 7.3K) - pipreqs - Generate pip requirements.txt file based on imports of any.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/bndr/pipreqs">pipreqs</a></b> (🥉30 ·  ⭐ 7.3K) - pipreqs - Generate pip requirements.txt file based on imports of any.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/bndr/pipreqs) (👨‍💻 74 · 🔀 420 · 📦 40K · 📋 330 - 65% open · ⏱️ 30.06.2025):
 
@@ -1046,12 +1031,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/David-OConnor/pyflow">pyflow</a></b> (🥉22 ·  ⭐ 1.3K) - An installation and dependency system for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/David-OConnor/pyflow) (👨‍💻 29 · 🔀 48 · 📥 8.6K · 📦 42 · 📋 140 - 47% open · ⏱️ 06.07.2025):
+- [GitHub](https://github.com/David-OConnor/pyflow) (👨‍💻 29 · 🔀 48 · 📥 8.7K · 📦 42 · 📋 140 - 47% open · ⏱️ 06.07.2025):
 
 	```
 	git clone https://github.com/David-OConnor/pyflow
 	```
-- [PyPi](https://pypi.org/project/pyflow) (📥 370 / month · 📦 1 · ⏱️ 02.07.2021):
+- [PyPi](https://pypi.org/project/pyflow) (📥 360 / month · 📦 1 · ⏱️ 02.07.2021):
 	```
 	pip install pyflow
 	```
@@ -1059,7 +1044,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/dephell/dephell">dephell</a></b> (🥉26 ·  ⭐ 1.8K · 💀) - Python project management. Manage packages: convert between formats,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/jaraco/pip-run">pip-run</a></b> (🥉19 ·  ⭐ 140) - pip-run - dynamic dependency loader for Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jaraco/pip-run">pip-run</a></b> (🥉18 ·  ⭐ 140) - pip-run - dynamic dependency loader for Python. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -1069,12 +1054,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/prospector-dev/prospector">prospector</a></b> (🥇34 ·  ⭐ 2K) - Inspects Python source files and provides information about type.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/prospector-dev/prospector) (👨‍💻 98 · 🔀 180 · 📦 5.2K · 📋 400 - 8% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/prospector-dev/prospector) (👨‍💻 98 · 🔀 180 · 📦 5.2K · 📋 400 - 8% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/PyCQA/prospector
 	```
-- [PyPi](https://pypi.org/project/prospector) (📥 560K / month · 📦 290 · ⏱️ 13.08.2025):
+- [PyPi](https://pypi.org/project/prospector) (📥 500K / month · 📦 290 · ⏱️ 13.08.2025):
 	```
 	pip install prospector
 	```
@@ -1090,7 +1075,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/PyCQA/mccabe
 	```
-- [PyPi](https://pypi.org/project/mccabe) (📥 71M / month · 📦 930 · ⏱️ 24.01.2022):
+- [PyPi](https://pypi.org/project/mccabe) (📥 67M / month · 📦 930 · ⏱️ 24.01.2022):
 	```
 	pip install mccabe
 	```
@@ -1138,7 +1123,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/mschwager/cohesion
 	```
-- [PyPi](https://pypi.org/project/cohesion) (📥 13K / month · 📦 13 · ⏱️ 09.12.2024):
+- [PyPi](https://pypi.org/project/cohesion) (📥 10K / month · 📦 13 · ⏱️ 09.12.2024):
 	```
 	pip install cohesion
 	```
@@ -1149,7 +1134,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/tonybaloney/wily">wily</a></b> (🥉26 ·  ⭐ 1.2K · 💀) - A Python application for tracking, reporting on timing and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/tonybaloney/wily">wily</a></b> (🥉26 ·  ⭐ 1.3K · 💀) - A Python application for tracking, reporting on timing and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -1157,7 +1142,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Textualize/rich">rich</a></b> (🥇47 ·  ⭐ 53K) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Textualize/rich">rich</a></b> (🥇47 ·  ⭐ 54K) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Textualize/rich) (👨‍💻 280 · 🔀 1.9K · 📦 470K · 📋 1.5K - 18% open · ⏱️ 13.08.2025):
 
@@ -1168,7 +1153,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install rich
 	```
-- [Conda](https://anaconda.org/conda-forge/rich) (📥 14M · ⏱️ 25.07.2025):
+- [Conda](https://anaconda.org/conda-forge/rich) (📥 15M · ⏱️ 25.07.2025):
 	```
 	conda install -c conda-forge rich
 	```
@@ -1184,7 +1169,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install tqdm
 	```
-- [Conda](https://anaconda.org/conda-forge/tqdm) (📥 40M · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/tqdm) (📥 41M · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge tqdm
 	```
@@ -1195,28 +1180,28 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/getsentry/sentry-python">sentry-sdk</a></b> (🥇39 ·  ⭐ 2.1K) - The official Python SDK for Sentry.io. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/getsentry/sentry-python) (👨‍💻 280 · 🔀 560 · 📥 4K · 📋 1.8K - 11% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/getsentry/sentry-python) (👨‍💻 280 · 🔀 560 · 📥 3.9K · 📋 1.8K - 11% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/getsentry/sentry-python
 	```
-- [PyPi](https://pypi.org/project/sentry-sdk) (📥 70M / month · 📦 1.3K · ⏱️ 26.08.2025):
+- [PyPi](https://pypi.org/project/sentry-sdk) (📥 70M / month · 📦 1.3K · ⏱️ 04.09.2025):
 	```
 	pip install sentry-sdk
 	```
-- [Conda](https://anaconda.org/conda-forge/sentry-sdk) (📥 1.4M · ⏱️ 26.08.2025):
+- [Conda](https://anaconda.org/conda-forge/sentry-sdk) (📥 1.4M · ⏱️ 04.09.2025):
 	```
 	conda install -c conda-forge sentry-sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/Delgan/loguru">loguru</a></b> (🥈38 ·  ⭐ 23K) - Python logging made (stupidly) simple. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 67 · 🔀 740 · 📦 140K · 📋 1.1K - 20% open · ⏱️ 10.08.2025):
+- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 68 · 🔀 740 · 📦 140K · 📋 1.1K - 20% open · ⏱️ 31.08.2025):
 
 	```
 	git clone https://github.com/Delgan/loguru
 	```
-- [PyPi](https://pypi.org/project/loguru) (📥 36M / month · 📦 11K · ⏱️ 06.12.2024):
+- [PyPi](https://pypi.org/project/loguru) (📥 39M / month · 📦 11K · ⏱️ 06.12.2024):
 	```
 	pip install loguru
 	```
@@ -1227,32 +1212,32 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈38 ·  ⭐ 4.2K) - Simple, powerful, and fast logging for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hynek/structlog) (👨‍💻 130 · 🔀 250 · 📦 25K · 📋 380 - 10% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/hynek/structlog) (👨‍💻 130 · 🔀 250 · 📦 25K · 📋 380 - 10% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/hynek/structlog
 	```
-- [PyPi](https://pypi.org/project/structlog) (📥 32M / month · 📦 1.5K · ⏱️ 02.06.2025):
+- [PyPi](https://pypi.org/project/structlog) (📥 33M / month · 📦 1.5K · ⏱️ 02.06.2025):
 	```
 	pip install structlog
 	```
-- [Conda](https://anaconda.org/conda-forge/structlog) (📥 760K · ⏱️ 02.06.2025):
+- [Conda](https://anaconda.org/conda-forge/structlog) (📥 770K · ⏱️ 02.06.2025):
 	```
 	conda install -c conda-forge structlog
 	```
 </details>
 <details><summary><b><a href="https://github.com/getlogbook/logbook">logbook</a></b> (🥈35 ·  ⭐ 1.5K) - A cool logging replacement for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/getlogbook/logbook) (👨‍💻 80 · 🔀 170 · 📥 500 · 📦 7.3K · 📋 190 - 25% open · ⏱️ 26.07.2025):
+- [GitHub](https://github.com/getlogbook/logbook) (👨‍💻 80 · 🔀 170 · 📥 500 · 📦 7.3K · 📋 190 - 25% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/getlogbook/logbook
 	```
-- [PyPi](https://pypi.org/project/logbook) (📥 6.8M / month · 📦 270 · ⏱️ 14.06.2025):
+- [PyPi](https://pypi.org/project/logbook) (📥 6.6M / month · 📦 270 · ⏱️ 14.06.2025):
 	```
 	pip install logbook
 	```
-- [Conda](https://anaconda.org/conda-forge/logbook) (📥 350K · ⏱️ 27.08.2025):
+- [Conda](https://anaconda.org/conda-forge/logbook) (📥 360K · ⏱️ 27.08.2025):
 	```
 	conda install -c conda-forge logbook
 	```
@@ -1273,7 +1258,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge tabulate
 	```
 </details>
-<details><summary><b><a href="https://github.com/rsalmei/alive-progress">alive-progress</a></b> (🥈33 ·  ⭐ 6K) - A new kind of Progress Bar, with real-time throughput, ETA, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rsalmei/alive-progress">alive-progress</a></b> (🥈33 ·  ⭐ 6.1K) - A new kind of Progress Bar, with real-time throughput, ETA, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/rsalmei/alive-progress) (👨‍💻 10 · 🔀 220 · 📦 4.7K · 📋 240 - 5% open · ⏱️ 20.07.2025):
 
@@ -1289,7 +1274,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge alive-progress
 	```
 </details>
-<details><summary><b><a href="https://github.com/madzak/python-json-logger">python-json-logger</a></b> (🥉32 ·  ⭐ 1.8K · 💤) - Json Formatter for the standard python logger. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/madzak/python-json-logger">python-json-logger</a></b> (🥉31 ·  ⭐ 1.8K · 💤) - Json Formatter for the standard python logger. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/madzak/python-json-logger) (👨‍💻 64 · 🔀 230 · 📋 120 - 24% open · ⏱️ 12.12.2024):
 
@@ -1305,14 +1290,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge python-json-logger
 	```
 </details>
-<details><summary><b><a href="https://github.com/borntyping/python-colorlog">colorlog</a></b> (🥉31 ·  ⭐ 930 · 💤) - A colored formatter for the python logging module. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/borntyping/python-colorlog">colorlog</a></b> (🥉30 ·  ⭐ 930 · 💤) - A colored formatter for the python logging module. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/borntyping/python-colorlog) (👨‍💻 34 · 🔀 93 · 📦 60K · ⏱️ 29.10.2024):
 
 	```
 	git clone https://github.com/borntyping/python-colorlog
 	```
-- [PyPi](https://pypi.org/project/colorlog) (📥 34M / month · 📦 2.1K · ⏱️ 29.10.2024):
+- [PyPi](https://pypi.org/project/colorlog) (📥 33M / month · 📦 2.1K · ⏱️ 29.10.2024):
 	```
 	pip install colorlog
 	```
@@ -1332,7 +1317,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install progressbar2
 	```
-- [Conda](https://anaconda.org/conda-forge/progressbar2) (📥 3.2M · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/progressbar2) (📥 3.3M · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge progressbar2
 	```
@@ -1344,7 +1329,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/liiight/notifiers
 	```
-- [PyPi](https://pypi.org/project/notifiers) (📥 570K / month · 📦 37 · ⏱️ 17.05.2025):
+- [PyPi](https://pypi.org/project/notifiers) (📥 560K / month · 📦 37 · ⏱️ 17.05.2025):
 	```
 	pip install notifiers
 	```
@@ -1360,7 +1345,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/samuelcolvin/python-devtools
 	```
-- [PyPi](https://pypi.org/project/python-devtools) (📥 2K / month · 📦 2 · ⏱️ 21.08.2017):
+- [PyPi](https://pypi.org/project/python-devtools) (📥 2.1K / month · 📦 2 · ⏱️ 21.08.2017):
 	```
 	pip install python-devtools
 	```
@@ -1371,7 +1356,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary>Show 8 hidden projects...</summary>
 
-- <b><a href="https://github.com/prettytable/prettytable">prettytable</a></b> (🥈34 ·  ⭐ 1.5K) - Display tabular data in a visually appealing ASCII table.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/prettytable/prettytable">prettytable</a></b> (🥈33 ·  ⭐ 1.5K) - Display tabular data in a visually appealing ASCII table.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/xolox/python-coloredlogs">python-coloredlogs</a></b> (🥉30 ·  ⭐ 560 · 💀) - Colored terminal output for Pythons logging module. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/explosion/wasabi">wasabi</a></b> (🥉27 ·  ⭐ 460 · 💀) - A lightweight console printing and formatting toolkit. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Qix-/better-exceptions">better-exceptions</a></b> (🥉24 ·  ⭐ 4.7K · 💀) - Pretty and useful exceptions in Python, automatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -1393,14 +1378,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/xxh/xxh
 	```
-- [PyPi](https://pypi.org/project/xxh-xxh) (📥 230 / month · ⏱️ 06.04.2024):
+- [PyPi](https://pypi.org/project/xxh-xxh) (📥 250 / month · ⏱️ 06.04.2024):
 	```
 	pip install xxh-xxh
 	```
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/xonsh/xonsh">xonsh</a></b> (🥇37 ·  ⭐ 8.9K) - Python-powered shell. Full-featured and cross-platform. <code><a href="https://tldrlegal.com/search?q=BSD-1-Clause">❗️BSD-1-Clause</a></code>
+- <b><a href="https://github.com/xonsh/xonsh">xonsh</a></b> (🥇37 ·  ⭐ 9K) - Python-powered shell. Full-featured and cross-platform. <code><a href="https://tldrlegal.com/search?q=BSD-1-Clause">❗️BSD-1-Clause</a></code>
 </details>
 <br>
 
@@ -1412,12 +1397,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/squidfunk/mkdocs-material">mkdocs-material</a></b> (🥇43 ·  ⭐ 24K) - Documentation that simply works. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/squidfunk/mkdocs-material) (👨‍💻 320 · 🔀 3.9K · 📦 73K · 📋 2.6K - 0% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/squidfunk/mkdocs-material) (👨‍💻 320 · 🔀 3.9K · 📦 73K · 📋 2.6K - 0% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/squidfunk/mkdocs-material
 	```
-- [PyPi](https://pypi.org/project/mkdocs-material) (📥 11M / month · 📦 5.3K · ⏱️ 22.08.2025):
+- [PyPi](https://pypi.org/project/mkdocs-material) (📥 10M / month · 📦 5.3K · ⏱️ 22.08.2025):
 	```
 	pip install mkdocs-material
 	```
@@ -1428,12 +1413,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/mkdocs/mkdocs">mkdocs</a></b> (🥇40 ·  ⭐ 21K) - Project documentation with Markdown. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mkdocs/mkdocs) (👨‍💻 260 · 🔀 2.5K · 📦 88K · 📋 2.1K - 5% open · ⏱️ 03.08.2025):
+- [GitHub](https://github.com/mkdocs/mkdocs) (👨‍💻 260 · 🔀 2.5K · 📦 89K · 📋 2.1K - 5% open · ⏱️ 03.08.2025):
 
 	```
 	git clone https://github.com/mkdocs/mkdocs
 	```
-- [PyPi](https://pypi.org/project/mkdocs) (📥 9.2M / month · 📦 6.3K · ⏱️ 30.08.2024):
+- [PyPi](https://pypi.org/project/mkdocs) (📥 9M / month · 📦 6.5K · ⏱️ 30.08.2024):
 	```
 	pip install mkdocs
 	```
@@ -1442,14 +1427,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge mkdocs
 	```
 </details>
-<details><summary><b><a href="https://github.com/readthedocs/sphinx_rtd_theme">sphinx_rtd_theme</a></b> (🥈35 ·  ⭐ 4.9K) - Sphinx theme from Read the Docs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/readthedocs/sphinx_rtd_theme">sphinx_rtd_theme</a></b> (🥈35 ·  ⭐ 5K · 💤) - Sphinx theme from Read the Docs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/readthedocs/sphinx_rtd_theme) (👨‍💻 120 · 🔀 1.8K · 📦 16 · 📋 920 - 27% open · ⏱️ 20.02.2025):
 
 	```
 	git clone https://github.com/readthedocs/sphinx_rtd_theme
 	```
-- [PyPi](https://pypi.org/project/sphinx_rtd_theme) (📥 10M / month · 📦 13K · ⏱️ 13.11.2024):
+- [PyPi](https://pypi.org/project/sphinx_rtd_theme) (📥 9.9M / month · 📦 13K · ⏱️ 13.11.2024):
 	```
 	pip install sphinx_rtd_theme
 	```
@@ -1460,7 +1445,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/mkdocstrings/griffe">Griffe</a></b> (🥈34 ·  ⭐ 520) - Signatures for entire Python programs. Extract the structure, the frame,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/mkdocstrings/griffe) (👨‍💻 39 · 🔀 51 · 📦 12K · 📋 280 - 11% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/mkdocstrings/griffe) (👨‍💻 39 · 🔀 52 · 📦 12K · 📋 290 - 11% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/mkdocstrings/griffe
@@ -1469,19 +1454,19 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install griffe
 	```
-- [Conda](https://anaconda.org/conda-forge/griffe) (📥 620K · ⏱️ 26.08.2025):
+- [Conda](https://anaconda.org/conda-forge/griffe) (📥 630K · ⏱️ 26.08.2025):
 	```
 	conda install -c conda-forge griffe
 	```
 </details>
 <details><summary><b><a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings</a></b> (🥈33 ·  ⭐ 2K) - Automatic documentation from sources, for MkDocs. <code><a href="http://bit.ly/3hkKRql">ISC</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mkdocstrings/mkdocstrings) (👨‍💻 52 · 🔀 110 · 📦 20K · 📋 460 - 13% open · ⏱️ 24.08.2025):
+- [GitHub](https://github.com/mkdocstrings/mkdocstrings) (👨‍💻 52 · 🔀 110 · 📦 21K · 📋 460 - 13% open · ⏱️ 24.08.2025):
 
 	```
 	git clone https://github.com/mkdocstrings/mkdocstrings
 	```
-- [PyPi](https://pypi.org/project/mkdocstrings) (📥 4M / month · 📦 1.6K · ⏱️ 22.07.2025):
+- [PyPi](https://pypi.org/project/mkdocstrings) (📥 3.9M / month · 📦 1.6K · ⏱️ 22.07.2025):
 	```
 	pip install mkdocstrings
 	```
@@ -1490,30 +1475,30 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge mkdocstrings
 	```
 </details>
-<details><summary><b><a href="https://github.com/breathe-doc/breathe">breathe</a></b> (🥈33 ·  ⭐ 780) - ReStructuredText and Sphinx bridge to Doxygen. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/breathe-doc/breathe">breathe</a></b> (🥈33 ·  ⭐ 790) - ReStructuredText and Sphinx bridge to Doxygen. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/breathe-doc/breathe) (👨‍💻 120 · 🔀 210 · 📥 750 · 📦 19K · 📋 610 - 30% open · ⏱️ 08.07.2025):
+- [GitHub](https://github.com/breathe-doc/breathe) (👨‍💻 120 · 🔀 210 · 📥 750 · 📦 19K · 📋 610 - 30% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/michaeljones/breathe
 	```
-- [PyPi](https://pypi.org/project/breathe) (📥 830K / month · 📦 130 · ⏱️ 08.07.2025):
+- [PyPi](https://pypi.org/project/breathe) (📥 860K / month · 📦 130 · ⏱️ 08.07.2025):
 	```
 	pip install breathe
 	```
-- [Conda](https://anaconda.org/conda-forge/breathe) (📥 800K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/breathe) (📥 810K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge breathe
 	```
 </details>
 <details><summary><b><a href="https://github.com/tox-dev/sphinx-autodoc-typehints">sphinx-autodoc-typehints</a></b> (🥈33 ·  ⭐ 580) - Type hints support for the Sphinx autodoc extension. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tox-dev/sphinx-autodoc-typehints) (👨‍💻 61 · 🔀 110 · 📦 57K · 📋 210 - 19% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/tox-dev/sphinx-autodoc-typehints) (👨‍💻 61 · 🔀 110 · 📦 57K · 📋 210 - 19% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/tox-dev/sphinx-autodoc-typehints
 	```
-- [PyPi](https://pypi.org/project/sphinx-autodoc-typehints) (📥 3.7M / month · 📦 3.9K · ⏱️ 25.04.2025):
+- [PyPi](https://pypi.org/project/sphinx-autodoc-typehints) (📥 3.5M / month · 📦 3.9K · ⏱️ 25.04.2025):
 	```
 	pip install sphinx-autodoc-typehints
 	```
@@ -1522,14 +1507,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge sphinx-autodoc-typehints
 	```
 </details>
-<details><summary><b><a href="https://github.com/sphinx-doc/sphinx-autobuild">sphinx-autobuild</a></b> (🥈31 ·  ⭐ 580 · 📈) - Watch a Sphinx directory and rebuild the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/sphinx-doc/sphinx-autobuild">sphinx-autobuild</a></b> (🥈31 ·  ⭐ 580) - Watch a Sphinx directory and rebuild the documentation.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/sphinx-doc/sphinx-autobuild) (👨‍💻 36 · 🔀 85 · 📦 29K · 📋 110 - 16% open · ⏱️ 25.08.2025):
 
 	```
 	git clone https://github.com/executablebooks/sphinx-autobuild
 	```
-- [PyPi](https://pypi.org/project/sphinx-autobuild) (📥 3.7M / month · 📦 2.3K · ⏱️ 25.08.2025):
+- [PyPi](https://pypi.org/project/sphinx-autobuild) (📥 3.9M / month · 📦 2.3K · ⏱️ 25.08.2025):
 	```
 	pip install sphinx-autobuild
 	```
@@ -1538,14 +1523,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge sphinx-autobuild
 	```
 </details>
-<details><summary><b><a href="https://github.com/pdoc3/pdoc">pdoc3</a></b> (🥉29 ·  ⭐ 1.2K) - Auto-generate API documentation for Python projects. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/pdoc3/pdoc">pdoc3</a></b> (🥉28 ·  ⭐ 1.2K) - Auto-generate API documentation for Python projects. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/pdoc3/pdoc) (👨‍💻 68 · 🔀 140 · 📦 4.9K · 📋 340 - 30% open · ⏱️ 12.07.2025):
 
 	```
 	git clone https://github.com/pdoc3/pdoc
 	```
-- [PyPi](https://pypi.org/project/pdoc3) (📥 330K / month · 📦 490 · ⏱️ 20.03.2025):
+- [PyPi](https://pypi.org/project/pdoc3) (📥 300K / month · 📦 490 · ⏱️ 20.03.2025):
 	```
 	pip install pdoc3
 	```
@@ -1556,12 +1541,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/adamchainz/blacken-docs">blacken-docs</a></b> (🥉26 ·  ⭐ 670) - Run `black` on python code blocks in documentation files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/adamchainz/blacken-docs) (👨‍💻 25 · 🔀 43 · 📦 1.3K · 📋 81 - 11% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/adamchainz/blacken-docs) (👨‍💻 25 · 🔀 43 · 📦 1.4K · 📋 81 - 11% open · ⏱️ 11.08.2025):
 
 	```
 	git clone https://github.com/asottile/blacken-docs
 	```
-- [PyPi](https://pypi.org/project/blacken-docs) (📥 150K / month · 📦 88 · ⏱️ 23.10.2024):
+- [PyPi](https://pypi.org/project/blacken-docs) (📥 130K / month · 📦 88 · ⏱️ 23.10.2024):
 	```
 	pip install blacken-docs
 	```
@@ -1572,24 +1557,24 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/lukasgeiter/mkdocs-awesome-nav">mkdocs-awesome-pages-plugin</a></b> (🥉24 ·  ⭐ 580) - A plugin for customizing the navigation structure of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/lukasgeiter/mkdocs-awesome-nav) (👨‍💻 10 · 🔀 40 · 📦 250 · 📋 110 - 19% open · ⏱️ 18.05.2025):
+- [GitHub](https://github.com/lukasgeiter/mkdocs-awesome-nav) (👨‍💻 10 · 🔀 40 · 📦 270 · 📋 110 - 19% open · ⏱️ 18.05.2025):
 
 	```
 	git clone https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
 	```
-- [PyPi](https://pypi.org/project/mkdocs-awesome-pages-plugin) (📥 620K / month · 📦 220 · ⏱️ 22.12.2024):
+- [PyPi](https://pypi.org/project/mkdocs-awesome-pages-plugin) (📥 650K / month · 📦 220 · ⏱️ 22.12.2024):
 	```
 	pip install mkdocs-awesome-pages-plugin
 	```
 </details>
-<details><summary><b><a href="https://github.com/mkdocstrings/pytkdocs">pytkdocs</a></b> (🥉24 ·  ⭐ 52) - Load Python objects documentation. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/mkdocstrings/pytkdocs">pytkdocs</a></b> (🥉23 ·  ⭐ 53) - Load Python objects documentation. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/mkdocstrings/pytkdocs) (👨‍💻 23 · 🔀 32 · 📦 1.6K · 📋 100 - 6% open · ⏱️ 09.03.2025):
 
 	```
 	git clone https://github.com/mkdocstrings/pytkdocs
 	```
-- [PyPi](https://pypi.org/project/pytkdocs) (📥 170K / month · 📦 22 · ⏱️ 09.03.2025):
+- [PyPi](https://pypi.org/project/pytkdocs) (📥 150K / month · 📦 22 · ⏱️ 09.03.2025):
 	```
 	pip install pytkdocs
 	```
@@ -1598,14 +1583,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge pytkdocs
 	```
 </details>
-<details><summary><b><a href="https://github.com/ml-tooling/lazydocs">lazydocs</a></b> (🥉23 ·  ⭐ 230) - Generate markdown API documentation from Google-style Python docstring... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/lazydocs">lazydocs</a></b> (🥉22 ·  ⭐ 230) - Generate markdown API documentation from Google-style Python docstring... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/lazydocs) (👨‍💻 12 · 🔀 43 · 📦 380 · 📋 42 - 11% open · ⏱️ 28.02.2025):
+- [GitHub](https://github.com/ml-tooling/lazydocs) (👨‍💻 13 · 🔀 43 · 📦 380 · 📋 43 - 11% open · ⏱️ 28.08.2025):
 
 	```
 	git clone https://github.com/ml-tooling/lazydocs
 	```
-- [PyPi](https://pypi.org/project/lazydocs) (📥 59K / month · 📦 65 · ⏱️ 27.07.2021):
+- [PyPi](https://pypi.org/project/lazydocs) (📥 58K / month · 📦 65 · ⏱️ 27.07.2021):
 	```
 	pip install lazydocs
 	```
@@ -1617,24 +1602,24 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/timvink/mkdocs-print-site-plugin
 	```
-- [PyPi](https://pypi.org/project/mkdocs-print-site-plugin) (📥 98K / month · 📦 22 · ⏱️ 03.08.2025):
+- [PyPi](https://pypi.org/project/mkdocs-print-site-plugin) (📥 93K / month · 📦 22 · ⏱️ 03.08.2025):
 	```
 	pip install mkdocs-print-site-plugin
 	```
 </details>
 <details><summary>Show 14 hidden projects...</summary>
 
-- <b><a href="https://github.com/sphinx-doc/sphinx">sphinx</a></b> (🥇44 ·  ⭐ 7.3K) - The Sphinx documentation generator. <code>❗Unlicensed</code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/mitmproxy/pdoc">pdoc</a></b> (🥈32 ·  ⭐ 2.2K · 📈) - API Documentation for Python Projects. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/sphinx-doc/sphinx">sphinx</a></b> (🥇43 ·  ⭐ 7.3K · 📉) - The Sphinx documentation generator. <code>❗Unlicensed</code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sphinx-doc/alabaster">alabaster</a></b> (🥈32 ·  ⭐ 750 · 💀) - Lightweight, configurable Sphinx theme. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/numpy/numpydoc">numpydoc</a></b> (🥉30 ·  ⭐ 340) - Numpys Sphinx extensions. <code>❗Unlicensed</code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/mitmproxy/pdoc">pdoc</a></b> (🥈31 ·  ⭐ 2.2K) - API Documentation for Python Projects. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/numpy/numpydoc">numpydoc</a></b> (🥉29 ·  ⭐ 340) - Numpys Sphinx extensions. <code>❗Unlicensed</code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/econchick/interrogate">interrogate</a></b> (🥉26 ·  ⭐ 640 · 💀) - Explain yourself! Interrogate a codebase for docstring coverage. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ryan-roemer/sphinx-bootstrap-theme">sphinx-bootstrap-theme</a></b> (🥉26 ·  ⭐ 590 · 💀) - Sphinx Bootstrap Theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/timothycrosley/portray">portray</a></b> (🥉23 ·  ⭐ 870 · 💀) - Your Project with Great Documentation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/pycco-docs/pycco">pycco</a></b> (🥉23 ·  ⭐ 860 · 💀) - Literate-style documentation generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/orzih/mkdocs-with-pdf">mkdocs-with-pdf</a></b> (🥉23 ·  ⭐ 370 · 💀) - Generate a single PDF file from MkDocs repository. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bitprophet/releases">releases</a></b> (🥉23 ·  ⭐ 180 · 💀) - A powerful Sphinx changelog-generating extension. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/clayrisser/sphinx-markdown-builder">sphinx-markdown-builder</a></b> (🥉23 ·  ⭐ 160 · 💀) - DISCONTINUED: sphinx builder that outputs markdown.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.sphinx-doc.org/en/master/_static/favicon.svg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/pycco-docs/pycco">pycco</a></b> (🥉22 ·  ⭐ 860 · 💀) - Literate-style documentation generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/zhaoterryy/mkdocs-pdf-export-plugin">mkdocs-pdf-export-plugin</a></b> (🥉22 ·  ⭐ 340 · 💀) - An MkDocs plugin to export content pages as PDF files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zhaoterryy/mkdocs-git-revision-date-plugin">mkdocs-git-revision-date-plugin</a></b> (🥉20 ·  ⭐ 60 · 💀) - MkDocs plugin for setting revision date from git per.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zayd62/mkdocs-versioning">mkdocs-versioning</a></b> (🥉16 ·  ⭐ 40 · 💀) - A tool that allows for versioning sites built with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://squidfunk.github.io/mkdocs-material/assets/favicon.png" style="display:inline;" width="13" height="13"></code>
@@ -1679,18 +1664,34 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/eliben/pyelftools">pyelftools</a></b> (🥇32 ·  ⭐ 2.1K) - Parsing ELF and DWARF in Python. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/eliben/pyelftools) (👨‍💻 110 · 🔀 520 · 📦 11K · 📋 270 - 27% open · ⏱️ 03.07.2025):
+- [GitHub](https://github.com/eliben/pyelftools) (👨‍💻 110 · 🔀 520 · 📦 11K · 📋 270 - 27% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/eliben/pyelftools
 	```
-- [PyPi](https://pypi.org/project/pyelftools) (📥 6.2M / month · 📦 270 · ⏱️ 19.02.2025):
+- [PyPi](https://pypi.org/project/pyelftools) (📥 6.3M / month · 📦 270 · ⏱️ 19.02.2025):
 	```
 	pip install pyelftools
 	```
-- [Conda](https://anaconda.org/conda-forge/pyelftools) (📥 880K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/pyelftools) (📥 890K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge pyelftools
+	```
+</details>
+<details><summary><b><a href="https://github.com/cool-RR/PySnooper">PySnooper</a></b> (🥈31 ·  ⭐ 17K) - Never use print for debugging again. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/cool-RR/PySnooper) (👨‍💻 29 · 🔀 950 · 📦 2.1K · 📋 140 - 21% open · ⏱️ 31.05.2025):
+
+	```
+	git clone https://github.com/cool-RR/PySnooper
+	```
+- [PyPi](https://pypi.org/project/pysnooper) (📥 400K / month · 📦 67 · ⏱️ 31.05.2025):
+	```
+	pip install pysnooper
+	```
+- [Conda](https://anaconda.org/conda-forge/pysnooper) (📥 140K · ⏱️ 22.04.2025):
+	```
+	conda install -c conda-forge pysnooper
 	```
 </details>
 <details><summary><b><a href="https://github.com/gotcha/ipdb">ipdb</a></b> (🥈31 ·  ⭐ 1.9K) - Integration of IPython pdb. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -1700,41 +1701,13 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/gotcha/ipdb
 	```
-- [PyPi](https://pypi.org/project/ipdb) (📥 9.6M / month · 📦 1.1K · ⏱️ 09.03.2023):
+- [PyPi](https://pypi.org/project/ipdb) (📥 9.7M / month · 📦 1.1K · ⏱️ 09.03.2023):
 	```
 	pip install ipdb
 	```
 - [Conda](https://anaconda.org/conda-forge/ipdb) (📥 630K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge ipdb
-	```
-</details>
-<details><summary><b><a href="https://github.com/cool-RR/PySnooper">PySnooper</a></b> (🥈30 ·  ⭐ 17K) - Never use print for debugging again. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/cool-RR/PySnooper) (👨‍💻 29 · 🔀 950 · 📦 2.1K · 📋 140 - 21% open · ⏱️ 31.05.2025):
-
-	```
-	git clone https://github.com/cool-RR/PySnooper
-	```
-- [PyPi](https://pypi.org/project/pysnooper) (📥 380K / month · 📦 67 · ⏱️ 31.05.2025):
-	```
-	pip install pysnooper
-	```
-- [Conda](https://anaconda.org/conda-forge/pysnooper) (📥 140K · ⏱️ 22.04.2025):
-	```
-	conda install -c conda-forge pysnooper
-	```
-</details>
-<details><summary><b><a href="https://github.com/cs01/gdbgui">gdbgui</a></b> (🥉27 ·  ⭐ 10K) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/cs01/gdbgui) (👨‍💻 45 · 🔀 510 · 📥 20K · 📦 500 · 📋 340 - 49% open · ⏱️ 29.06.2025):
-
-	```
-	git clone https://github.com/cs01/gdbgui
-	```
-- [PyPi](https://pypi.org/project/gdbgui) (📥 6K / month · 📦 2 · ⏱️ 29.06.2025):
-	```
-	pip install gdbgui
 	```
 </details>
 <details><summary><b><a href="https://github.com/ionelmc/python-hunter">python-hunter</a></b> (🥉27 ·  ⭐ 840) - Hunter is a flexible code tracing toolkit. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
@@ -1744,13 +1717,25 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/ionelmc/python-hunter
 	```
-- [PyPi](https://pypi.org/project/hunter) (📥 530K / month · 📦 17 · ⏱️ 22.08.2025):
+- [PyPi](https://pypi.org/project/hunter) (📥 560K / month · 📦 17 · ⏱️ 22.08.2025):
 	```
 	pip install hunter
 	```
 - [Conda](https://anaconda.org/conda-forge/hunter) (📥 170K · ⏱️ 12.07.2025):
 	```
 	conda install -c conda-forge hunter
+	```
+</details>
+<details><summary><b><a href="https://github.com/cs01/gdbgui">gdbgui</a></b> (🥉26 ·  ⭐ 10K) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/cs01/gdbgui) (👨‍💻 45 · 🔀 510 · 📥 20K · 📦 500 · 📋 340 - 49% open · ⏱️ 29.06.2025):
+
+	```
+	git clone https://github.com/cs01/gdbgui
+	```
+- [PyPi](https://pypi.org/project/gdbgui) (📥 6.4K / month · 📦 2 · ⏱️ 29.06.2025):
+	```
+	pip install gdbgui
 	```
 </details>
 <details><summary><b><a href="https://github.com/alexmojaki/snoop">snoop</a></b> (🥉24 ·  ⭐ 1.4K · 💤) - A powerful set of Python debugging tools, based on PySnooper. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1760,7 +1745,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/alexmojaki/snoop
 	```
-- [PyPi](https://pypi.org/project/snoop) (📥 70K / month · 📦 41 · ⏱️ 06.10.2024):
+- [PyPi](https://pypi.org/project/snoop) (📥 68K / month · 📦 41 · ⏱️ 06.10.2024):
 	```
 	pip install snoop
 	```
@@ -1776,7 +1761,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/lmacken/pyrasite
 	```
-- [PyPi](https://pypi.org/project/pyrasite) (📥 8K / month · ⏱️ 09.05.2012):
+- [PyPi](https://pypi.org/project/pyrasite) (📥 7.7K / month · ⏱️ 09.05.2012):
 	```
 	pip install pyrasite
 	```
@@ -1800,12 +1785,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/pytest-dev/pytest">pytest</a></b> (🥇49 ·  ⭐ 13K) - The pytest framework makes it easy to write small tests, yet scales to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest) (👨‍💻 1K · 🔀 2.8K · 📥 23K · 📦 1.7M · 📋 6.2K - 14% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest) (👨‍💻 1.1K · 🔀 2.9K · 📥 23K · 📦 1.7M · 📋 6.2K - 14% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest
 	```
-- [PyPi](https://pypi.org/project/pytest) (📥 260M / month · 📦 76K · ⏱️ 18.06.2025):
+- [PyPi](https://pypi.org/project/pytest) (📥 240M / month · 📦 76K · ⏱️ 18.06.2025):
 	```
 	pip install pytest
 	```
@@ -1816,7 +1801,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/robotframework/robotframework">robotframework</a></b> (🥇43 ·  ⭐ 11K) - Generic automation framework for acceptance testing and RPA. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/robotframework/robotframework) (👨‍💻 220 · 🔀 2.5K · 📥 580 · 📦 14K · 📋 4.7K - 5% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/robotframework/robotframework) (👨‍💻 220 · 🔀 2.5K · 📥 580 · 📦 14K · 📋 4.7K - 5% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/robotframework/robotframework
@@ -1830,46 +1815,46 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge robotframework
 	```
 </details>
-<details><summary><b><a href="https://github.com/HypothesisWorks/hypothesis">hypothesis</a></b> (🥇41 ·  ⭐ 8K) - The property-based testing library for Python. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/HypothesisWorks/hypothesis">hypothesis</a></b> (🥇41 ·  ⭐ 8.1K) - The property-based testing library for Python. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/HypothesisWorks/hypothesis) (👨‍💻 350 · 🔀 620 · 📦 35K · 📋 1.7K - 4% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/HypothesisWorks/hypothesis) (👨‍💻 350 · 🔀 620 · 📦 35K · 📋 1.7K - 4% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/HypothesisWorks/hypothesis
 	```
-- [PyPi](https://pypi.org/project/hypothesis) (📥 20M / month · 📦 2.8K · ⏱️ 28.08.2025):
+- [PyPi](https://pypi.org/project/hypothesis) (📥 20M / month · 📦 2.8K · ⏱️ 02.09.2025):
 	```
 	pip install hypothesis
 	```
-- [Conda](https://anaconda.org/conda-forge/hypothesis) (📥 14M · ⏱️ 27.08.2025):
+- [Conda](https://anaconda.org/conda-forge/hypothesis) (📥 15M · ⏱️ 03.09.2025):
 	```
 	conda install -c conda-forge hypothesis
 	```
 </details>
 <details><summary><b><a href="https://github.com/tox-dev/tox">tox</a></b> (🥇40 ·  ⭐ 3.8K) - Command line driven CI frontend and development task automation tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tox-dev/tox) (👨‍💻 330 · 🔀 540 · 📦 130K · 📋 1.8K - 7% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/tox-dev/tox) (👨‍💻 330 · 🔀 540 · 📦 130K · 📋 1.8K - 7% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/tox-dev/tox
 	```
-- [PyPi](https://pypi.org/project/tox) (📥 28M / month · 📦 11K · ⏱️ 31.07.2025):
+- [PyPi](https://pypi.org/project/tox) (📥 25M / month · 📦 12K · ⏱️ 03.09.2025):
 	```
 	pip install tox
 	```
-- [Conda](https://anaconda.org/conda-forge/tox) (📥 1.5M · ⏱️ 01.08.2025):
+- [Conda](https://anaconda.org/conda-forge/tox) (📥 1.5M · ⏱️ 03.09.2025):
 	```
 	conda install -c conda-forge tox
 	```
 </details>
 <details><summary><b><a href="https://github.com/pytest-dev/pytest-asyncio">pytest-asyncio</a></b> (🥇40 ·  ⭐ 1.6K) - Asyncio support for pytest. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-asyncio) (👨‍💻 72 · 🔀 160 · 📥 1.6K · 📦 150K · 📋 380 - 13% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest-asyncio) (👨‍💻 73 · 🔀 160 · 📥 1.6K · 📦 150K · 📋 380 - 14% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-asyncio
 	```
-- [PyPi](https://pypi.org/project/pytest-asyncio) (📥 54M / month · 📦 9K · ⏱️ 16.07.2025):
+- [PyPi](https://pypi.org/project/pytest-asyncio) (📥 53M / month · 📦 9K · ⏱️ 16.07.2025):
 	```
 	pip install pytest-asyncio
 	```
@@ -1878,26 +1863,26 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge pytest-asyncio
 	```
 </details>
-<details><summary><b><a href="https://github.com/microsoft/playwright-python">playwright-python</a></b> (🥈39 ·  ⭐ 14K · 📈) - Python version of the Playwright testing and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/microsoft/playwright-python">playwright-python</a></b> (🥈39 ·  ⭐ 14K) - Python version of the Playwright testing and automation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/microsoft/playwright-python) (👨‍💻 50 · 🔀 1K · 📦 45K · 📋 1.5K - 2% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/microsoft/playwright-python) (👨‍💻 50 · 🔀 1.1K · 📦 45K · 📋 1.5K - 2% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/microsoft/playwright-python
 	```
-- [PyPi](https://pypi.org/project/playwright) (📥 20M / month · 📦 2.5K · ⏱️ 22.07.2025):
+- [PyPi](https://pypi.org/project/playwright) (📥 21M / month · 📦 2.7K · ⏱️ 28.08.2025):
 	```
 	pip install playwright
 	```
 </details>
 <details><summary><b><a href="https://github.com/pytest-dev/pytest-cov">pytest-cov</a></b> (🥈39 ·  ⭐ 1.9K) - Coverage plugin for pytest. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-cov) (👨‍💻 97 · 🔀 220 · 📦 410K · 📋 440 - 34% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest-cov) (👨‍💻 97 · 🔀 220 · 📦 410K · 📋 440 - 34% open · ⏱️ 30.08.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-cov
 	```
-- [PyPi](https://pypi.org/project/pytest-cov) (📥 86M / month · 📦 40K · ⏱️ 12.06.2025):
+- [PyPi](https://pypi.org/project/pytest-cov) (📥 81M / month · 📦 40K · ⏱️ 12.06.2025):
 	```
 	pip install pytest-cov
 	```
@@ -1908,7 +1893,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pytest-dev/pytest-xdist">pytest-xdist</a></b> (🥈39 ·  ⭐ 1.7K) - pytest plugin for distributed testing and loop-on-failures.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-xdist) (👨‍💻 110 · 🔀 240 · 📥 290 · 📦 120K · 📋 670 - 41% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest-xdist) (👨‍💻 110 · 🔀 240 · 📥 300 · 📦 120K · 📋 670 - 41% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-xdist
@@ -1917,23 +1902,23 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install pytest-xdist
 	```
-- [Conda](https://anaconda.org/conda-forge/pytest-xdist) (📥 9.3M · ⏱️ 02.07.2025):
+- [Conda](https://anaconda.org/conda-forge/pytest-xdist) (📥 9.4M · ⏱️ 02.07.2025):
 	```
 	conda install -c conda-forge pytest-xdist
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytest-dev/pytest-mock">pytest-mock</a></b> (🥈37 ·  ⭐ 2K) - Thin-wrapper around the mock package for easier use with pytest. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pytest-dev/pytest-mock">pytest-mock</a></b> (🥈38 ·  ⭐ 2K · 📈) - Thin-wrapper around the mock package for easier use with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-mock) (👨‍💻 79 · 🔀 150 · 📥 100 · 📦 120K · 📋 160 - 7% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest-mock) (👨‍💻 79 · 🔀 150 · 📥 100 · 📦 120K · 📋 160 - 7% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-mock
 	```
-- [PyPi](https://pypi.org/project/pytest-mock) (📥 48M / month · 📦 7.1K · ⏱️ 26.05.2025):
+- [PyPi](https://pypi.org/project/pytest-mock) (📥 47M / month · 📦 7.1K · ⏱️ 26.05.2025):
 	```
 	pip install pytest-mock
 	```
-- [Conda](https://anaconda.org/conda-forge/pytest-mock) (📥 3.8M · ⏱️ 26.05.2025):
+- [Conda](https://anaconda.org/conda-forge/pytest-mock) (📥 3.9M · ⏱️ 26.05.2025):
 	```
 	conda install -c conda-forge pytest-mock
 	```
@@ -1956,7 +1941,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/pytest-dev/pytest-html">pytest-html</a></b> (🥈34 ·  ⭐ 740) - Plugin for generating HTML reports for pytest results. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-html) (👨‍💻 61 · 🔀 240 · 📦 57K · 📋 430 - 40% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest-html) (👨‍💻 61 · 🔀 250 · 📦 57K · 📋 440 - 41% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-html
@@ -1965,7 +1950,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install pytest-html
 	```
-- [Conda](https://anaconda.org/conda-forge/pytest-html) (📥 750K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/pytest-html) (📥 760K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge pytest-html
 	```
@@ -1977,7 +1962,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/theacodes/nox
 	```
-- [PyPi](https://pypi.org/project/nox) (📥 4.7M / month · 📦 1.2K · ⏱️ 01.05.2025):
+- [PyPi](https://pypi.org/project/nox) (📥 4.1M / month · 📦 1.2K · ⏱️ 01.05.2025):
 	```
 	pip install nox
 	```
@@ -1986,7 +1971,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge nox
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytest-dev/pytest-bdd">pytest-bdd</a></b> (🥈33 ·  ⭐ 1.4K) - BDD library for the pytest runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pytest-dev/pytest-bdd">pytest-bdd</a></b> (🥈33 ·  ⭐ 1.4K · 💤) - BDD library for the pytest runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/pytest-dev/pytest-bdd) (👨‍💻 65 · 🔀 230 · 📦 4.4K · 📋 380 - 21% open · ⏱️ 13.02.2025):
 
@@ -2009,29 +1994,13 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/lk-geimfari/mimesis
 	```
-- [PyPi](https://pypi.org/project/mimesis) (📥 840K / month · 📦 68 · ⏱️ 13.09.2024):
+- [PyPi](https://pypi.org/project/mimesis) (📥 850K / month · 📦 68 · ⏱️ 13.09.2024):
 	```
 	pip install mimesis
 	```
 - [Conda](https://anaconda.org/conda-forge/mimesis) (📥 320K · ⏱️ 10.05.2025):
 	```
 	conda install -c conda-forge mimesis
-	```
-</details>
-<details><summary><b><a href="https://github.com/pytest-dev/pytest-testinfra">pytest-testinfra</a></b> (🥈32 ·  ⭐ 2.4K) - Testinfra test your infrastructures. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/pytest-dev/pytest-testinfra) (👨‍💻 140 · 🔀 360 · 📦 2.5K · 📋 370 - 37% open · ⏱️ 12.08.2025):
-
-	```
-	git clone https://github.com/pytest-dev/pytest-testinfra
-	```
-- [PyPi](https://pypi.org/project/pytest-testinfra) (📥 730K / month · 📦 20 · ⏱️ 30.03.2025):
-	```
-	pip install pytest-testinfra
-	```
-- [Conda](https://anaconda.org/conda-forge/pytest-testinfra) (📥 31K · ⏱️ 22.04.2025):
-	```
-	conda install -c conda-forge pytest-testinfra
 	```
 </details>
 <details><summary><b><a href="https://github.com/Teemu/pytest-sugar">pytest-sugar</a></b> (🥈32 ·  ⭐ 1.5K) - a plugin for py.test that changes the default look and feel.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
@@ -2045,7 +2014,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install pytest-sugar
 	```
-- [Conda](https://anaconda.org/conda-forge/pytest-sugar) (📥 330K · ⏱️ 24.08.2025):
+- [Conda](https://anaconda.org/conda-forge/pytest-sugar) (📥 340K · ⏱️ 24.08.2025):
 	```
 	conda install -c conda-forge pytest-sugar
 	```
@@ -2057,23 +2026,23 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/nose-devs/nose2
 	```
-- [PyPi](https://pypi.org/project/nose2) (📥 690K / month · 📦 320 · ⏱️ 01.06.2024):
+- [PyPi](https://pypi.org/project/nose2) (📥 650K / month · 📦 320 · ⏱️ 01.06.2024):
 	```
 	pip install nose2
 	```
-- [Conda](https://anaconda.org/conda-forge/nose2) (📥 190K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/nose2) (📥 200K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge nose2
 	```
 </details>
-<details><summary><b><a href="https://github.com/TheKevJames/coveralls-python">coveralls-python</a></b> (🥉31 ·  ⭐ 570) - Show coverage stats online via coveralls.io. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/TheKevJames/coveralls-python">coveralls-python</a></b> (🥈32 ·  ⭐ 570) - Show coverage stats online via coveralls.io. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/TheKevJames/coveralls-python) (👨‍💻 66 · 🔀 190 · 📦 36K · 📋 180 - 6% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/TheKevJames/coveralls-python) (👨‍💻 66 · 🔀 190 · 📦 36K · 📋 180 - 6% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/TheKevJames/coveralls-python
 	```
-- [PyPi](https://pypi.org/project/coveralls) (📥 1.4M / month · 📦 2.2K · ⏱️ 15.05.2024):
+- [PyPi](https://pypi.org/project/coveralls) (📥 1.1M / month · 📦 2.2K · ⏱️ 15.05.2024):
 	```
 	pip install coveralls
 	```
@@ -2082,9 +2051,9 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge coveralls
 	```
 </details>
-<details><summary><b><a href="https://github.com/FactoryBoy/factory_boy">factory_boy</a></b> (🥉30 ·  ⭐ 3.7K) - A test fixtures replacement for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/FactoryBoy/factory_boy">factory_boy</a></b> (🥉31 ·  ⭐ 3.7K) - A test fixtures replacement for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/FactoryBoy/factory_boy) (👨‍💻 130 · 🔀 400 · 📋 620 - 30% open · ⏱️ 03.02.2025):
+- [GitHub](https://github.com/FactoryBoy/factory_boy) (👨‍💻 130 · 🔀 400 · 📋 620 - 30% open · ⏱️ 31.08.2025):
 
 	```
 	git clone https://github.com/FactoryBoy/factory_boy
@@ -2093,9 +2062,25 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install factory_boy
 	```
-- [Conda](https://anaconda.org/conda-forge/factory_boy) (📥 200K · ⏱️ 25.04.2025):
+- [Conda](https://anaconda.org/conda-forge/factory_boy) (📥 210K · ⏱️ 25.04.2025):
 	```
 	conda install -c conda-forge factory_boy
+	```
+</details>
+<details><summary><b><a href="https://github.com/pytest-dev/pytest-testinfra">pytest-testinfra</a></b> (🥉31 ·  ⭐ 2.4K) - Testinfra test your infrastructures. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/pytest-dev/pytest-testinfra) (👨‍💻 140 · 🔀 360 · 📦 2.5K · 📋 370 - 37% open · ⏱️ 12.08.2025):
+
+	```
+	git clone https://github.com/pytest-dev/pytest-testinfra
+	```
+- [PyPi](https://pypi.org/project/pytest-testinfra) (📥 720K / month · 📦 20 · ⏱️ 30.03.2025):
+	```
+	pip install pytest-testinfra
+	```
+- [Conda](https://anaconda.org/conda-forge/pytest-testinfra) (📥 32K · ⏱️ 22.04.2025):
+	```
+	conda install -c conda-forge pytest-testinfra
 	```
 </details>
 <details><summary><b><a href="https://github.com/airspeed-velocity/asv">asv</a></b> (🥉30 ·  ⭐ 940) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -2105,7 +2090,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/airspeed-velocity/asv
 	```
-- [PyPi](https://pypi.org/project/asv) (📥 260K / month · 📦 110 · ⏱️ 12.08.2024):
+- [PyPi](https://pypi.org/project/asv) (📥 250K / month · 📦 110 · ⏱️ 12.08.2024):
 	```
 	pip install asv
 	```
@@ -2137,11 +2122,11 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pytest-dev/pytest-randomly
 	```
-- [PyPi](https://pypi.org/project/pytest-randomly) (📥 3.6M / month · 📦 540 · ⏱️ 25.10.2024):
+- [PyPi](https://pypi.org/project/pytest-randomly) (📥 3.4M / month · 📦 540 · ⏱️ 25.10.2024):
 	```
 	pip install pytest-randomly
 	```
-- [Conda](https://anaconda.org/conda-forge/pytest-randomly) (📥 330K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/pytest-randomly) (📥 340K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge pytest-randomly
 	```
@@ -2153,29 +2138,13 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/CleanCut/green
 	```
-- [PyPi](https://pypi.org/project/green) (📥 21K / month · 📦 130 · ⏱️ 18.04.2024):
+- [PyPi](https://pypi.org/project/green) (📥 15K / month · 📦 130 · ⏱️ 18.04.2024):
 	```
 	pip install green
 	```
 - [Conda](https://anaconda.org/conda-forge/green) (📥 250K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge green
-	```
-</details>
-<details><summary><b><a href="https://github.com/gabrielcnr/pytest-datadir">pytest-datadir</a></b> (🥉27 ·  ⭐ 270) - pytest plugin for manipulating test data directories and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/gabrielcnr/pytest-datadir) (👨‍💻 14 · 🔀 25 · 📥 69 · 📦 2K · 📋 23 - 13% open · ⏱️ 05.08.2025):
-
-	```
-	git clone https://github.com/gabrielcnr/pytest-datadir
-	```
-- [PyPi](https://pypi.org/project/pytest-datadir) (📥 740K / month · 📦 270 · ⏱️ 30.07.2025):
-	```
-	pip install pytest-datadir
-	```
-- [Conda](https://anaconda.org/conda-forge/pytest-datadir) (📥 340K · ⏱️ 30.07.2025):
-	```
-	conda install -c conda-forge pytest-datadir
 	```
 </details>
 <details><summary><b><a href="https://github.com/realpython/pytest-mypy">pytest-mypy</a></b> (🥉27 ·  ⭐ 260) - Mypy static type checker plugin for Pytest. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
@@ -2185,7 +2154,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/dbader/pytest-mypy
 	```
-- [PyPi](https://pypi.org/project/pytest-mypy) (📥 490K / month · 📦 780 · ⏱️ 02.04.2025):
+- [PyPi](https://pypi.org/project/pytest-mypy) (📥 450K / month · 📦 780 · ⏱️ 02.04.2025):
 	```
 	pip install pytest-mypy
 	```
@@ -2196,7 +2165,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/tarpas/pytest-testmon">pytest-testmon</a></b> (🥉26 ·  ⭐ 910 · 💤) - Selects tests affected by changed files. Executes the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tarpas/pytest-testmon) (👨‍💻 29 · 🔀 66 · 📦 1.4K · 📋 170 - 23% open · ⏱️ 22.12.2024):
+- [GitHub](https://github.com/tarpas/pytest-testmon) (👨‍💻 29 · 🔀 65 · 📦 1.4K · 📋 170 - 23% open · ⏱️ 22.12.2024):
 
 	```
 	git clone https://github.com/tarpas/pytest-testmon
@@ -2205,7 +2174,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install pytest-testmon
 	```
-- [Conda](https://anaconda.org/conda-forge/pytest-testmon) (📥 66K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/pytest-testmon) (📥 68K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge pytest-testmon
 	```
@@ -2222,6 +2191,22 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	pip install pytest-docker
 	```
 </details>
+<details><summary><b><a href="https://github.com/gabrielcnr/pytest-datadir">pytest-datadir</a></b> (🥉26 ·  ⭐ 270) - pytest plugin for manipulating test data directories and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/gabrielcnr/pytest-datadir) (👨‍💻 14 · 🔀 25 · 📥 69 · 📦 2K · 📋 23 - 13% open · ⏱️ 05.08.2025):
+
+	```
+	git clone https://github.com/gabrielcnr/pytest-datadir
+	```
+- [PyPi](https://pypi.org/project/pytest-datadir) (📥 670K / month · 📦 270 · ⏱️ 30.07.2025):
+	```
+	pip install pytest-datadir
+	```
+- [Conda](https://anaconda.org/conda-forge/pytest-datadir) (📥 340K · ⏱️ 30.07.2025):
+	```
+	conda install -c conda-forge pytest-datadir
+	```
+</details>
 <details><summary><b><a href="https://github.com/Erotemic/xdoctest">xdoctest</a></b> (🥉25 ·  ⭐ 210) - A rewrite of Pythons builtin doctest module (with pytest plugin.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/Erotemic/xdoctest) (👨‍💻 13 · 🔀 15 · 📥 220 · 📋 52 - 38% open · ⏱️ 20.08.2025):
@@ -2229,7 +2214,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/Erotemic/xdoctest
 	```
-- [PyPi](https://pypi.org/project/xdoctest) (📥 730K / month · 📦 190 · ⏱️ 20.08.2024):
+- [PyPi](https://pypi.org/project/xdoctest) (📥 720K / month · 📦 190 · ⏱️ 20.08.2024):
 	```
 	pip install xdoctest
 	```
@@ -2245,7 +2230,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/man-group/pytest-plugins
 	```
-- [PyPi](https://pypi.org/project/pytest-virtualenv) (📥 37K / month · 📦 73 · ⏱️ 29.11.2024):
+- [PyPi](https://pypi.org/project/pytest-virtualenv) (📥 35K / month · 📦 73 · ⏱️ 29.11.2024):
 	```
 	pip install pytest-virtualenv
 	```
@@ -2256,7 +2241,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary>Show 12 hidden projects...</summary>
 
-- <b><a href="https://github.com/asweigart/pyautogui">pyautogui</a></b> (🥈35 ·  ⭐ 12K · 💀) - A cross-platform GUI automation Python module for human beings... <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/asweigart/pyautogui">pyautogui</a></b> (🥈36 ·  ⭐ 12K · 💀) - A cross-platform GUI automation Python module for human beings... <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/nose-devs/nose">nose</a></b> (🥈33 ·  ⭐ 1.4K · 💀) - nose is nicer testing for python. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1%2B">❗️LGPL-2.1+</a></code>
 - <b><a href="https://github.com/xiaocong/uiautomator">uiautomator</a></b> (🥉27 ·  ⭐ 2.1K · 💀) - Python wrapper of Android uiautomator test tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/datadriventests/ddt">ddt</a></b> (🥉27 ·  ⭐ 440 · 💀) - Data-Driven Tests for Python Unittest. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -2265,8 +2250,8 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 - <b><a href="https://github.com/nestorsalceda/mamba">Mamba Test Runner</a></b> (🥉25 ·  ⭐ 530 · 💀) - The definitive testing tool for Python. Born under the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/TvoroG/pytest-lazy-fixture">pytest-lazy-fixture</a></b> (🥉24 ·  ⭐ 390 · 💀) - It helps to use fixtures in pytest.mark.parametrize. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sixpack/sixpack">sixpack</a></b> (🥉21 ·  ⭐ 1.8K · 💀) - Sixpack is a language-agnostic a/b-testing framework. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
-- <b><a href="https://github.com/ActivisionGameScience/assertpy">assertpy</a></b> (🥉21 ·  ⭐ 480 · 💀) - Simple assertion library for unit testing in python with a fluent.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/emirozer/fake2db">fake2db</a></b> (🥉17 ·  ⭐ 2.3K · 💀) - create custom test databases that are populated with fake data. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
+- <b><a href="https://github.com/ActivisionGameScience/assertpy">assertpy</a></b> (🥉21 ·  ⭐ 520 · 💀) - Simple assertion library for unit testing in python with a fluent.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/emirozer/fake2db">fake2db</a></b> (🥉18 ·  ⭐ 2.3K · 💀) - create custom test databases that are populated with fake data. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
 - <b><a href="https://github.com/pytest-dev/pytest-play">pytest-play</a></b> (🥉16 ·  ⭐ 70 · 💀) - pytest plugin that let you automate actions and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
@@ -2279,7 +2264,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a></b> (🥇44 ·  ⭐ 13K) - Freeze (package) Python programs into stand-alone executables. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 480 · 🔀 2K · 📥 750K · 📦 84K · 📋 5.6K - 5% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/pyinstaller/pyinstaller) (👨‍💻 480 · 🔀 2K · 📥 750K · 📦 84K · 📋 5.6K - 5% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/pyinstaller/pyinstaller
@@ -2295,12 +2280,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">Nuitka</a></b> (🥇39 ·  ⭐ 14K) - Nuitka is a Python compiler written in Python. Its fully compatible.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 200 · 🔀 710 · 📦 3.4K · 📋 2.7K - 8% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 200 · 🔀 710 · 📦 3.4K · 📋 2.7K - 8% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
 	```
-- [PyPi](https://pypi.org/project/nuitka) (📥 170K / month · 📦 130 · ⏱️ 26.08.2025):
+- [PyPi](https://pypi.org/project/nuitka) (📥 190K / month · 📦 130 · ⏱️ 26.08.2025):
 	```
 	pip install nuitka
 	```
@@ -2309,54 +2294,54 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge nuitka
 	```
 </details>
-<details><summary><b><a href="https://github.com/pypa/packaging">packaging</a></b> (🥇39 ·  ⭐ 670) - Core utilities for Python packages. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pypa/packaging">packaging</a></b> (🥇39 ·  ⭐ 680) - Core utilities for Python packages. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pypa/packaging) (👨‍💻 120 · 🔀 270 · 📥 920 · 📦 1.8M · 📋 440 - 26% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/pypa/packaging) (👨‍💻 120 · 🔀 270 · 📥 920 · 📦 1.8M · 📋 440 - 26% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pypa/packaging
 	```
-- [PyPi](https://pypi.org/project/packaging) (📥 680M / month · 📦 14K · ⏱️ 19.04.2025):
+- [PyPi](https://pypi.org/project/packaging) (📥 660M / month · 📦 14K · ⏱️ 19.04.2025):
 	```
 	pip install packaging
 	```
-- [Conda](https://anaconda.org/conda-forge/packaging) (📥 74M · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/packaging) (📥 75M · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge packaging
 	```
 </details>
 <details><summary><b><a href="https://github.com/pex-tool/pex">pex</a></b> (🥈34 ·  ⭐ 4.1K) - A tool for generating .pex (Python EXecutable) files, lock files and venvs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 2.4M · 📋 1.2K - 5% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/pex-tool/pex) (👨‍💻 120 · 🔀 300 · 📥 2.4M · 📋 1.2K - 5% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/pantsbuild/pex
 	```
-- [PyPi](https://pypi.org/project/pex) (📥 2.7M / month · 📦 61 · ⏱️ 27.08.2025):
+- [PyPi](https://pypi.org/project/pex) (📥 2.7M / month · 📦 61 · ⏱️ 03.09.2025):
 	```
 	pip install pex
 	```
 </details>
-<details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈34 ·  ⭐ 3K) - Tools to support converting a Python project into a standalone native.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/beeware/briefcase">briefcase</a></b> (🥈34 ·  ⭐ 3.1K) - Tools to support converting a Python project into a standalone.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 190 · 🔀 460 · 📥 750 · 📦 830 · 📋 950 - 18% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/beeware/briefcase) (👨‍💻 190 · 🔀 460 · 📥 750 · 📦 830 · 📋 950 - 18% open · ⏱️ 31.08.2025):
 
 	```
 	git clone https://github.com/beeware/briefcase
 	```
-- [PyPi](https://pypi.org/project/briefcase) (📥 20K / month · 📦 38 · ⏱️ 26.08.2025):
+- [PyPi](https://pypi.org/project/briefcase) (📥 22K / month · 📦 38 · ⏱️ 26.08.2025):
 	```
 	pip install briefcase
 	```
 </details>
 <details><summary><b><a href="https://github.com/marcelotduarte/cx_Freeze">cx_Freeze</a></b> (🥈30 ·  ⭐ 1.5K) - Creates standalone executables from Python scripts with the.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 120 · 🔀 240 · 📋 1K - 4% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/marcelotduarte/cx_Freeze) (👨‍💻 120 · 🔀 240 · 📋 1K - 4% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/marcelotduarte/cx_Freeze
 	```
-- [PyPi](https://pypi.org/project/cx_freeze) (📥 220K / month · 📦 120 · ⏱️ 11.08.2025):
+- [PyPi](https://pypi.org/project/cx_freeze) (📥 240K / month · 📦 120 · ⏱️ 11.08.2025):
 	```
 	pip install cx_freeze
 	```
@@ -2365,14 +2350,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge cx_freeze
 	```
 </details>
-<details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉29 ·  ⭐ 960) - Create standalone Windows programs from Python code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b> (🥉28 ·  ⭐ 960) - Create standalone Windows programs from Python code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/py2exe/py2exe) (👨‍💻 24 · 🔀 100 · 📥 23K · 📦 2.2K · 📋 180 - 13% open · ⏱️ 15.07.2025):
 
 	```
 	git clone https://github.com/py2exe/py2exe
 	```
-- [PyPi](https://pypi.org/project/py2exe) (📥 68K / month · 📦 11 · ⏱️ 16.07.2025):
+- [PyPi](https://pypi.org/project/py2exe) (📥 48K / month · 📦 11 · ⏱️ 16.07.2025):
 	```
 	pip install py2exe
 	```
@@ -2384,14 +2369,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/indygreg/PyOxidizer
 	```
-- [PyPi](https://pypi.org/project/pyoxidizer) (📥 38K / month · 📦 2 · ⏱️ 02.01.2023):
+- [PyPi](https://pypi.org/project/pyoxidizer) (📥 37K / month · 📦 2 · ⏱️ 02.01.2023):
 	```
 	pip install pyoxidizer
 	```
 </details>
 <details><summary><b><a href="https://github.com/conda/constructor">constructor</a></b> (🥉26 ·  ⭐ 490) - tool for creating installers from conda packages. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/conda/constructor) (👨‍💻 76 · 🔀 170 · 📥 290 · 📦 27 · 📋 420 - 9% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/conda/constructor) (👨‍💻 76 · 🔀 170 · 📥 290 · 📦 27 · 📋 420 - 10% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/conda/constructor
@@ -2420,14 +2405,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/takluyver/pynsist
 	```
-- [PyPi](https://pypi.org/project/pynsist) (📥 2.5K / month · 📦 14 · ⏱️ 21.03.2022):
+- [PyPi](https://pypi.org/project/pynsist) (📥 2.6K / month · 📦 14 · ⏱️ 21.03.2022):
 	```
 	pip install pynsist
 	```
 </details>
 <details><summary>Show 4 hidden projects...</summary>
 
-- <b><a href="https://github.com/ronaldoussoren/py2app">py2app</a></b> (🥉27 ·  ⭐ 400 · 💀) - py2app is a Python setuptools command which will allow you to make.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ronaldoussoren/py2app">py2app</a></b> (🥉26 ·  ⭐ 400 · 💀) - py2app is a Python setuptools command which will allow you to make.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/facebookincubator/xar">xar</a></b> (🥉21 ·  ⭐ 1.6K · 💀) - executable archive format. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/google/subpar">subpar</a></b> (🥉13 ·  ⭐ 570 · 💀) - Subpar is a utility for creating self-contained python.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/jamesabel/pyship">pyship</a></b> (🥉11 ·  ⭐ 43 · 💀) - pyship - ship Python desktop apps to end users. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -2445,29 +2430,13 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pypa/setuptools
 	```
-- [PyPi](https://pypi.org/project/setuptools) (📥 690M / month · 📦 29K · ⏱️ 27.05.2025):
+- [PyPi](https://pypi.org/project/setuptools) (📥 680M / month · 📦 29K · ⏱️ 27.05.2025):
 	```
 	pip install setuptools
 	```
 - [Conda](https://anaconda.org/conda-forge/setuptools) (📥 160M · ⏱️ 01.06.2025):
 	```
 	conda install -c conda-forge setuptools
-	```
-</details>
-<details><summary><b><a href="https://github.com/SCons/scons">scons</a></b> (🥇39 ·  ⭐ 2.3K) - SCons - a software construction tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/SCons/scons) (👨‍💻 170 · 🔀 330 · 📥 1.8K · 📦 3.9K · 📋 3.5K - 18% open · ⏱️ 21.08.2025):
-
-	```
-	git clone https://github.com/SCons/scons
-	```
-- [PyPi](https://pypi.org/project/scons) (📥 810K / month · 📦 52 · ⏱️ 27.03.2025):
-	```
-	pip install scons
-	```
-- [Conda](https://anaconda.org/conda-forge/scons) (📥 1M · ⏱️ 22.04.2025):
-	```
-	conda install -c conda-forge scons
 	```
 </details>
 <details><summary><b><a href="https://github.com/pypa/setuptools-scm">setuptools_scm</a></b> (🥇39 ·  ⭐ 920) - the blessed package to manage your versions by scm tags. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2477,13 +2446,29 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pypa/setuptools_scm
 	```
-- [PyPi](https://pypi.org/project/setuptools_scm) (📥 82M / month · 📦 2.2K · ⏱️ 16.08.2025):
+- [PyPi](https://pypi.org/project/setuptools_scm) (📥 86M / month · 📦 2.2K · ⏱️ 16.08.2025):
 	```
 	pip install setuptools_scm
 	```
-- [Conda](https://anaconda.org/conda-forge/setuptools_scm) (📥 5.1M · ⏱️ 16.08.2025):
+- [Conda](https://anaconda.org/conda-forge/setuptools_scm) (📥 5.2M · ⏱️ 16.08.2025):
 	```
 	conda install -c conda-forge setuptools_scm
+	```
+</details>
+<details><summary><b><a href="https://github.com/SCons/scons">scons</a></b> (🥈38 ·  ⭐ 2.3K · 📉) - SCons - a software construction tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/SCons/scons) (👨‍💻 170 · 🔀 330 · 📥 1.8K · 📦 3.9K · 📋 3.5K - 18% open · ⏱️ 21.08.2025):
+
+	```
+	git clone https://github.com/SCons/scons
+	```
+- [PyPi](https://pypi.org/project/scons) (📥 820K / month · 📦 52 · ⏱️ 27.03.2025):
+	```
+	pip install scons
+	```
+- [Conda](https://anaconda.org/conda-forge/scons) (📥 1M · ⏱️ 03.09.2025):
+	```
+	conda install -c conda-forge scons
 	```
 </details>
 <details><summary><b><a href="https://github.com/pypa/twine">twine</a></b> (🥈37 ·  ⭐ 1.7K) - Utilities for interacting with PyPI. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2497,14 +2482,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install twine
 	```
-- [Conda](https://anaconda.org/conda-forge/twine) (📥 1.3M · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/twine) (📥 1.4M · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge twine
 	```
 </details>
 <details><summary><b><a href="https://github.com/pypa/wheel">wheel</a></b> (🥈37 ·  ⭐ 540) - The official binary distribution format for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pypa/wheel) (👨‍💻 86 · 🔀 160 · 📦 370K · 📋 420 - 3% open · ⏱️ 31.07.2025):
+- [GitHub](https://github.com/pypa/wheel) (👨‍💻 86 · 🔀 160 · 📦 380K · 📋 420 - 3% open · ⏱️ 31.07.2025):
 
 	```
 	git clone https://github.com/pypa/wheel
@@ -2525,7 +2510,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/buildbot/buildbot
 	```
-- [PyPi](https://pypi.org/project/buildbot) (📥 32K / month · 📦 20 · ⏱️ 12.05.2025):
+- [PyPi](https://pypi.org/project/buildbot) (📥 30K / month · 📦 20 · ⏱️ 12.05.2025):
 	```
 	pip install buildbot
 	```
@@ -2534,14 +2519,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge buildbot
 	```
 </details>
-<details><summary><b><a href="https://github.com/pyinvoke/invoke">invoke</a></b> (🥈36 ·  ⭐ 4.6K) - Pythonic task management & command execution. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pyinvoke/invoke">invoke</a></b> (🥉35 ·  ⭐ 4.6K · 📉) - Pythonic task management & command execution. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/pyinvoke/invoke) (👨‍💻 60 · 🔀 370 · 📦 31K · 📋 830 - 51% open · ⏱️ 15.06.2025):
 
 	```
 	git clone https://github.com/pyinvoke/invoke
 	```
-- [PyPi](https://pypi.org/project/invoke) (📥 37M / month · 📦 1K · ⏱️ 12.07.2023):
+- [PyPi](https://pypi.org/project/invoke) (📥 43M / month · 📦 1K · ⏱️ 12.07.2023):
 	```
 	pip install invoke
 	```
@@ -2550,14 +2535,14 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge invoke
 	```
 </details>
-<details><summary><b><a href="https://github.com/pypa/flit">flit</a></b> (🥉34 ·  ⭐ 2.2K) - Simplified packaging of Python modules. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pypa/flit">flit</a></b> (🥉33 ·  ⭐ 2.2K) - Simplified packaging of Python modules. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/pypa/flit) (👨‍💻 80 · 🔀 150 · 📦 2.5K · 📋 440 - 30% open · ⏱️ 13.08.2025):
 
 	```
 	git clone https://github.com/pypa/flit
 	```
-- [PyPi](https://pypi.org/project/flit) (📥 7.9M / month · 📦 930 · ⏱️ 25.03.2025):
+- [PyPi](https://pypi.org/project/flit) (📥 8.1M / month · 📦 930 · ⏱️ 25.03.2025):
 	```
 	pip install flit
 	```
@@ -2573,7 +2558,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pybuilder/pybuilder
 	```
-- [PyPi](https://pypi.org/project/pybuilder) (📥 52K / month · 📦 6 · ⏱️ 23.08.2025):
+- [PyPi](https://pypi.org/project/pybuilder) (📥 32K / month · 📦 6 · ⏱️ 23.08.2025):
 	```
 	pip install pybuilder
 	```
@@ -2589,7 +2574,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/ml-tooling/universal-build
 	```
-- [PyPi](https://pypi.org/project/universal-build) (📥 86 / month · 📦 7 · ⏱️ 16.11.2021):
+- [PyPi](https://pypi.org/project/universal-build) (📥 64 / month · 📦 7 · ⏱️ 16.11.2021):
 	```
 	pip install universal-build
 	```
@@ -2597,7 +2582,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 <details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/pydoit/doit">doit</a></b> (🥉31 ·  ⭐ 2K · 💀) - CLI task management & automation tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/buildout/buildout">buildout</a></b> (🥉29 ·  ⭐ 590) - Buildout is a deployment automation tool written in and extended.. <code><a href="https://tldrlegal.com/search?q=ZPL-2.1">❗️ZPL-2.1</a></code>
+- <b><a href="https://github.com/buildout/buildout">buildout</a></b> (🥉28 ·  ⭐ 590) - Buildout is a deployment automation tool written in and extended.. <code><a href="https://tldrlegal.com/search?q=ZPL-2.1">❗️ZPL-2.1</a></code>
 - <b><a href="https://github.com/paver/paver">paver</a></b> (🥉22 ·  ⭐ 460 · 💀) - Python-based project scripting. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/rags/pynt">pynt</a></b> (🥉18 ·  ⭐ 160 · 💀) - A pynt of Python build. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -2609,7 +2594,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/giampaolo/psutil">psutil</a></b> (🥇46 ·  ⭐ 11K) - Cross-platform lib for process and system monitoring in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/giampaolo/psutil) (👨‍💻 220 · 🔀 1.4K · 📦 750K · 📋 1.9K - 19% open · ⏱️ 24.08.2025):
+- [GitHub](https://github.com/giampaolo/psutil) (👨‍💻 220 · 🔀 1.4K · 📦 750K · 📋 1.9K - 18% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/giampaolo/psutil
@@ -2623,9 +2608,9 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	conda install -c conda-forge psutil
 	```
 </details>
-<details><summary><b><a href="https://github.com/nicolargo/glances">Glances</a></b> (🥇39 ·  ⭐ 30K) - Glances an Eye on your system. A top/htop alternative for.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/nicolargo/glances">Glances</a></b> (🥇38 ·  ⭐ 30K · 📉) - Glances an Eye on your system. A top/htop alternative for.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/nicolargo/glances) (👨‍💻 200 · 🔀 1.6K · 📥 1.7K · 📦 1.2K · 📋 2.1K - 6% open · ⏱️ 24.08.2025):
+- [GitHub](https://github.com/nicolargo/glances) (👨‍💻 210 · 🔀 1.6K · 📥 1.7K · 📦 1.2K · 📋 2.1K - 6% open · ⏱️ 30.08.2025):
 
 	```
 	git clone https://github.com/nicolargo/glances
@@ -2634,7 +2619,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install glances
 	```
-- [Conda](https://anaconda.org/conda-forge/glances) (📥 350K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/glances) (📥 360K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge glances
 	```
@@ -2646,7 +2631,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/bloomberg/memray
 	```
-- [PyPi](https://pypi.org/project/memray) (📥 5.5M / month · 📦 98 · ⏱️ 08.08.2025):
+- [PyPi](https://pypi.org/project/memray) (📥 5.9M / month · 📦 98 · ⏱️ 08.08.2025):
 	```
 	pip install memray
 	```
@@ -2657,12 +2642,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/benfred/py-spy">py-spy</a></b> (🥈36 ·  ⭐ 14K) - Sampling profiler for Python programs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/benfred/py-spy) (👨‍💻 53 · 🔀 470 · 📥 33K · 📦 6.9K · 📋 430 - 47% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/benfred/py-spy) (👨‍💻 53 · 🔀 470 · 📥 34K · 📦 6.9K · 📋 430 - 47% open · ⏱️ 18.08.2025):
 
 	```
 	git clone https://github.com/benfred/py-spy
 	```
-- [PyPi](https://pypi.org/project/py-spy) (📥 8.8M / month · 📦 110 · ⏱️ 31.07.2025):
+- [PyPi](https://pypi.org/project/py-spy) (📥 9M / month · 📦 110 · ⏱️ 31.07.2025):
 	```
 	pip install py-spy
 	```
@@ -2682,23 +2667,23 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/joerick/pyinstrument
 	```
-- [PyPi](https://pypi.org/project/pyinstrument) (📥 4.2M / month · 📦 210 · ⏱️ 12.08.2025):
+- [PyPi](https://pypi.org/project/pyinstrument) (📥 4.3M / month · 📦 210 · ⏱️ 12.08.2025):
 	```
 	pip install pyinstrument
 	```
-- [Conda](https://anaconda.org/conda-forge/pyinstrument) (📥 830K · ⏱️ 27.08.2025):
+- [Conda](https://anaconda.org/conda-forge/pyinstrument) (📥 840K · ⏱️ 27.08.2025):
 	```
 	conda install -c conda-forge pyinstrument
 	```
 </details>
 <details><summary><b><a href="https://github.com/plasma-umass/scalene">Scalene</a></b> (🥈35 ·  ⭐ 13K) - Scalene: a high-performance, high-precision CPU, GPU, and memory.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/plasma-umass/scalene) (👨‍💻 57 · 🔀 420 · 📦 900 · 📋 500 - 33% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/plasma-umass/scalene) (👨‍💻 57 · 🔀 420 · 📦 910 · 📋 500 - 33% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/plasma-umass/scalene
 	```
-- [PyPi](https://pypi.org/project/scalene) (📥 260K / month · 📦 47 · ⏱️ 25.08.2025):
+- [PyPi](https://pypi.org/project/scalene) (📥 280K / month · 📦 47 · ⏱️ 25.08.2025):
 	```
 	pip install scalene
 	```
@@ -2710,11 +2695,11 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pyutils/line_profiler
 	```
-- [PyPi](https://pypi.org/project/line_profiler) (📥 1.5M / month · 📦 300 · ⏱️ 23.07.2025):
+- [PyPi](https://pypi.org/project/line_profiler) (📥 1.6M / month · 📦 300 · ⏱️ 23.07.2025):
 	```
 	pip install line_profiler
 	```
-- [Conda](https://anaconda.org/conda-forge/line_profiler) (📥 4M · ⏱️ 24.07.2025):
+- [Conda](https://anaconda.org/conda-forge/line_profiler) (📥 4M · ⏱️ 29.08.2025):
 	```
 	conda install -c conda-forge line_profiler
 	```
@@ -2726,7 +2711,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/aristocratos/bpytop
 	```
-- [PyPi](https://pypi.org/project/bpytop) (📥 18K / month · 📦 1 · ⏱️ 22.12.2021):
+- [PyPi](https://pypi.org/project/bpytop) (📥 17K / month · 📦 1 · ⏱️ 22.12.2021):
 	```
 	pip install bpytop
 	```
@@ -2737,7 +2722,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 </details>
 <details><summary><b><a href="https://github.com/sumerc/yappi">Yappi</a></b> (🥉27 ·  ⭐ 1.6K · 💤) - Yet Another Python Profiler, but this time multithreading, asyncio and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sumerc/yappi) (👨‍💻 31 · 🔀 76 · 📦 1.5K · 📋 85 - 24% open · ⏱️ 12.11.2024):
+- [GitHub](https://github.com/sumerc/yappi) (👨‍💻 32 · 🔀 75 · 📦 1.5K · 📋 85 - 24% open · ⏱️ 12.11.2024):
 
 	```
 	git clone https://github.com/sumerc/yappi
@@ -2746,23 +2731,23 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	pip install yappi
 	```
-- [Conda](https://anaconda.org/conda-forge/yappi) (📥 290K · ⏱️ 06.05.2025):
+- [Conda](https://anaconda.org/conda-forge/yappi) (📥 300K · ⏱️ 06.05.2025):
 	```
 	conda install -c conda-forge yappi
 	```
 </details>
-<details><summary><b><a href="https://github.com/pympler/pympler">pympler</a></b> (🥉27 ·  ⭐ 1.4K) - Development tool to measure, monitor and analyze the memory behavior.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pympler/pympler">pympler</a></b> (🥉26 ·  ⭐ 1.4K) - Development tool to measure, monitor and analyze the memory behavior.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/pympler/pympler) (👨‍💻 30 · 🔀 89 · 📋 120 - 51% open · ⏱️ 07.06.2025):
 
 	```
 	git clone https://github.com/pympler/pympler
 	```
-- [PyPi](https://pypi.org/project/pympler) (📥 3.8M / month · 📦 260 · ⏱️ 28.06.2024):
+- [PyPi](https://pypi.org/project/pympler) (📥 3.9M / month · 📦 260 · ⏱️ 28.06.2024):
 	```
 	pip install pympler
 	```
-- [Conda](https://anaconda.org/conda-forge/pympler) (📥 560K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/pympler) (📥 570K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge pympler
 	```
@@ -2784,18 +2769,18 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/alexmojaki/executing">executing</a></b> (🥇30 ·  ⭐ 360) - Get information about what a Python frame is currently doing,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/alexmojaki/executing">executing</a></b> (🥇33 ·  ⭐ 360 · 📈) - Get information about what a Python frame is currently doing,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/alexmojaki/executing) (👨‍💻 11 · 🔀 36 · 📦 320K · 📋 54 - 40% open · ⏱️ 20.08.2025):
+- [GitHub](https://github.com/alexmojaki/executing) (👨‍💻 11 · 🔀 36 · 📦 320K · 📋 53 - 37% open · ⏱️ 31.08.2025):
 
 	```
 	git clone https://github.com/alexmojaki/executing
 	```
-- [PyPi](https://pypi.org/project/executing) (📥 69M / month · 📦 630 · ⏱️ 22.01.2025):
+- [PyPi](https://pypi.org/project/executing) (📥 69M / month · 📦 800 · ⏱️ 01.09.2025):
 	```
 	pip install executing
 	```
-- [Conda](https://anaconda.org/conda-forge/executing) (📥 21M · ⏱️ 24.04.2025):
+- [Conda](https://anaconda.org/conda-forge/executing) (📥 21M · ⏱️ 01.09.2025):
 	```
 	conda install -c conda-forge executing
 	```
@@ -2807,7 +2792,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/serge-sans-paille/gast
 	```
-- [PyPi](https://pypi.org/project/gast) (📥 20M / month · 📦 440 · ⏱️ 27.06.2024):
+- [PyPi](https://pypi.org/project/gast) (📥 19M / month · 📦 440 · ⏱️ 27.06.2024):
 	```
 	pip install gast
 	```
@@ -2831,12 +2816,12 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 <details><summary><b><a href="https://github.com/pre-commit/pre-commit">pre-commit</a></b> (🥇42 ·  ⭐ 14K) - A framework for managing and maintaining multi-language pre-commit.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pre-commit/pre-commit) (👨‍💻 160 · 🔀 890 · 📥 3.4M · 📦 250K · 📋 2.2K - 1% open · ⏱️ 13.08.2025):
+- [GitHub](https://github.com/pre-commit/pre-commit) (👨‍💻 160 · 🔀 890 · 📥 3.5M · 📦 250K · 📋 2.2K - 1% open · ⏱️ 13.08.2025):
 
 	```
 	git clone https://github.com/pre-commit/pre-commit
 	```
-- [PyPi](https://pypi.org/project/pre-commit) (📥 61M / month · 📦 21K · ⏱️ 09.08.2025):
+- [PyPi](https://pypi.org/project/pre-commit) (📥 59M / month · 📦 21K · ⏱️ 09.08.2025):
 	```
 	pip install pre-commit
 	```
