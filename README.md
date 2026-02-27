@@ -2749,6 +2749,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Python Modules**](https://www.scaler.com/topics/python/python-modules/): Discover python code along with python functions, classes, and python variables. 
 
 ## Contribution
 
