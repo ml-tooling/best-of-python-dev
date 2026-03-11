@@ -497,6 +497,10 @@ projects:
     github_id: python-security/pyt
     category: security
     pypi_id: python-taint
+  - name: skylos
+    github_id: duriantaco/skylos
+    category: security
+    pypi_id: skylos
   - name: freshenv
     github_id: raiyanyahya/freshenv
     category: virtual-envs
