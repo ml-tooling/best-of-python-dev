@@ -694,6 +694,11 @@ projects:
     category: debugging
     pypi_id: manhole
     conda_id: conda-forge/manhole
+  - name: dttb
+    github_id: rocky-d/dttb
+    category: debugging
+    pypi_id: dttb
+    description: Add timestamps to Python exception tracebacks with a single line of code.
   - name: vprof
     github_id: nvdv/vprof
     category: profiling
