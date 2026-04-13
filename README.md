@@ -1026,6 +1026,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 
 - <b><a href="https://github.com/dephell/dephell">dephell</a></b> (🥉25 ·  ⭐ 1.8K · 💀) - Python project management. Manage packages: convert between formats,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/jaraco/pip-run">pip-run</a></b> (🥉18 ·  ⭐ 140 · 💤) - pip-run - dynamic dependency loader for Python. <code>❗Unlicensed</code>
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 </details>
 <br>
 
