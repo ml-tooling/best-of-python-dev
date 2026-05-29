@@ -1380,3 +1380,9 @@ projects:
     github_id: xxh/xxh
     category: shell
     pypi_id: xxh-xxh
+- name: crdt-merge
+  github_id: mgillr/crdt-merge
+  pypi_id: crdt-merge
+  category: data-tools
+  description: "CRDT-backed conflict-free merge for DataFrames, JSON, and distributed data — guaranteed convergence"
+
