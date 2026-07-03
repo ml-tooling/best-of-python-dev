@@ -911,6 +911,10 @@ projects:
     category: logging
     pypi_id: logbook
     conda_id: conda-forge/logbook
+  - name: safedump
+    github_id: Muneer320/safedump
+    category: logging
+    pypi_id: safedump
   - name: stackprinter
     github_id: cknd/stackprinter
     category: logging
