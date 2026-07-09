@@ -493,6 +493,9 @@ projects:
     category: security
     pypi_id: dlint
     conda_id: conda-forge/dlint
+  - name: Kodus
+    github_id: kodustech/kodus-ai
+    category: security
   - name: pyt
     github_id: python-security/pyt
     category: security
