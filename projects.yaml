@@ -1380,3 +1380,8 @@ projects:
     github_id: xxh/xxh
     category: shell
     pypi_id: xxh-xxh
+  - name: memory_grapg
+    github_id: bterwijn/memory_graph
+    category: debugging
+    pypi_id: memory_graph
+    conda_id: memory_graph
