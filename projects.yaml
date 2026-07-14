@@ -1380,3 +1380,6 @@ projects:
     github_id: xxh/xxh
     category: shell
     pypi_id: xxh-xxh
+  - name: pyresilience
+    github_id: AhsanSheraz/pyresilience
+    pypi_id: pyresilience
