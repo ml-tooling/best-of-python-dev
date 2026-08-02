@@ -2074,6 +2074,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 - <b><a href="https://github.com/pytest-dev/pytest-play">pytest-play</a></b> (🥉14 ·  ⭐ 73 · 💀) - pytest plugin that let you automate actions and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://docs.pytest.org/en/stable/_static/favicon.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ## Code Packaging
 
