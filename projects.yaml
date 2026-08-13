@@ -192,6 +192,10 @@ projects:
     category: linters
     pypi_id: ruff
     conda_id: conda-forge/ruff
+  - name: lintlang
+    github_id: hermes-labs-ai/lintlang
+    category: linters
+    pypi_id: lintlang
   - name: flake8
     github_id: PyCQA/flake8
     category: linters
