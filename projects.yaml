@@ -1384,3 +1384,8 @@ projects:
     github_id: xxh/xxh
     category: shell
     pypi_id: xxh-xxh
+  - name: agent-qa
+    github_id: vostride/agent-qa
+    category: testing
+    npm_id: agent-qa
+    license: FSL-1.1-ALv2
