@@ -109,6 +109,10 @@ projects:
     github_id: tonybaloney/wily
     category: code-metrics
     pypi_id: wily
+  - name: pyscn
+    github_id: ludo-technologies/pyscn
+    category: code-metrics
+    pypi_id: pyscn
   - name: cohesion
     github_id: mschwager/cohesion
     category: code-metrics
