@@ -1591,6 +1591,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 	```
 	git clone https://github.com/pytest-dev/pytest
 	```
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [PyPi](https://pypi.org/project/pytest) (📥 910M / month · 📦 190K · ⏱️ 19.06.2026):
 	```
 	pip install pytest
