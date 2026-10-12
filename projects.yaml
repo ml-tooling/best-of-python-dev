@@ -1384,3 +1384,7 @@ projects:
     github_id: xxh/xxh
     category: shell
     pypi_id: xxh-xxh
+  - name: YYLO Ledger
+    github_id: yylo-dev/yylo-ledger
+    category: others
+    pypi_id: yylo-ledger
