@@ -487,6 +487,10 @@ projects:
     category: security
     pypi_id: safety
     conda_id: conda-forge/safety
+  - name: extuno
+    github_id: Extuno/extuno-cli
+    category: security
+    pypi_id: extuno
   - name: dodgy
     github_id: landscapeio/dodgy
     category: security
