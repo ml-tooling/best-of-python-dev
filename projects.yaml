@@ -604,6 +604,11 @@ projects:
     github_id: xiaocong/uiautomator
     category: testing
     pypi_id: uiautomator
+  - name: Mock Jutsu
+    github_id: altansayan/mock-jutsu-api
+    category: testing
+    pypi_id: mockjutsu
+    labels: ["fake-data", "fintech"]
   - name: nose
     github_id: nose-devs/nose
     category: testing
