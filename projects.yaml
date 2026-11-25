@@ -187,6 +187,10 @@ projects:
     category: linters
     pypi_id: pylint
     conda_id: conda-forge/pylint
+  - name: thailint
+    github_id: be-wise-be-kind/thai-lint
+    category: linters
+    pypi_id: thailint
   - name: ruff
     github_id: charliermarsh/ruff
     category: linters
