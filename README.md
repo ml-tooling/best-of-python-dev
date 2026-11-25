@@ -49,6 +49,7 @@ This curated list contains 270 awesome open-source projects with a total of 1.1M
 - [System Monitoring & Profiling](#system-monitoring--profiling) _18 projects_
 - [AST Tools](#ast-tools) _6 projects_
 - [Others](#others) _1 projects_
+- [ReleaseRun](https://releaserun.com/) - Browser-based dependency health checkers for package.json, go.mod, Cargo.toml, requirements.txt, Gemfile, pom.xml, and more. Flags EOL packages and known CVEs.
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
